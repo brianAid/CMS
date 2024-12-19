@@ -1,0 +1,2083 @@
+CRITICAL - 2024-10-15 06:18:20 --> ErrorException: Undefined array key "judul_website"
+[Method: GET, Route: /]
+in APPPATH\Views\Beranda.php on line 49.
+ 1 APPPATH\Views\Beranda.php(49): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "judul_website"', 'D:\\vscode\\CI\\ci4\\app\\Views\\Beranda.php', 49)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\vscode\\CI\\ci4\\app\\Views\\Beranda.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Beranda', [], true)
+ 5 APPPATH\Controllers\Home.php(22): view('Beranda', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\vscode\\CI\\ci4\\public\\index.php')
+CRITICAL - 2024-10-15 06:18:22 --> ErrorException: Undefined array key "judul_website"
+[Method: GET, Route: /]
+in APPPATH\Views\Beranda.php on line 49.
+ 1 APPPATH\Views\Beranda.php(49): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "judul_website"', 'D:\\vscode\\CI\\ci4\\app\\Views\\Beranda.php', 49)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\vscode\\CI\\ci4\\app\\Views\\Beranda.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Beranda', [], true)
+ 5 APPPATH\Controllers\Home.php(22): view('Beranda', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\vscode\\CI\\ci4\\public\\index.php')
+CRITICAL - 2024-10-15 06:18:26 --> ErrorException: Undefined array key "judul_web"
+[Method: GET, Route: /]
+in APPPATH\Views\Beranda.php on line 49.
+ 1 APPPATH\Views\Beranda.php(49): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "judul_web"', 'D:\\vscode\\CI\\ci4\\app\\Views\\Beranda.php', 49)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\vscode\\CI\\ci4\\app\\Views\\Beranda.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Beranda', [], true)
+ 5 APPPATH\Controllers\Home.php(22): view('Beranda', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\vscode\\CI\\ci4\\public\\index.php')
+CRITICAL - 2024-10-15 06:20:59 --> ErrorException: Undefined array key "kategori"
+[Method: GET, Route: /]
+in APPPATH\Views\Beranda.php on line 65.
+ 1 APPPATH\Views\Beranda.php(65): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "kategori"', 'D:\\vscode\\CI\\ci4\\app\\Views\\Beranda.php', 65)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\vscode\\CI\\ci4\\app\\Views\\Beranda.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Beranda', [], true)
+ 5 APPPATH\Controllers\Home.php(22): view('Beranda', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\vscode\\CI\\ci4\\public\\index.php')
+CRITICAL - 2024-10-15 06:21:00 --> ErrorException: Undefined array key "kategori"
+[Method: GET, Route: /]
+in APPPATH\Views\Beranda.php on line 65.
+ 1 APPPATH\Views\Beranda.php(65): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "kategori"', 'D:\\vscode\\CI\\ci4\\app\\Views\\Beranda.php', 65)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\vscode\\CI\\ci4\\app\\Views\\Beranda.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Beranda', [], true)
+ 5 APPPATH\Controllers\Home.php(22): view('Beranda', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\vscode\\CI\\ci4\\public\\index.php')
+CRITICAL - 2024-10-15 06:31:42 --> ErrorException: Undefined array key "kategori"
+[Method: GET, Route: /]
+in APPPATH\Views\Beranda.php on line 103.
+ 1 APPPATH\Views\Beranda.php(103): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "kategori"', 'D:\\vscode\\CI\\ci4\\app\\Views\\Beranda.php', 103)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\vscode\\CI\\ci4\\app\\Views\\Beranda.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Beranda', [], true)
+ 5 APPPATH\Controllers\Home.php(22): view('Beranda', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\vscode\\CI\\ci4\\public\\index.php')
+CRITICAL - 2024-10-15 06:31:45 --> ErrorException: Undefined array key "kategori"
+[Method: GET, Route: /]
+in APPPATH\Views\Beranda.php on line 103.
+ 1 APPPATH\Views\Beranda.php(103): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "kategori"', 'D:\\vscode\\CI\\ci4\\app\\Views\\Beranda.php', 103)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\vscode\\CI\\ci4\\app\\Views\\Beranda.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Beranda', [], true)
+ 5 APPPATH\Controllers\Home.php(22): view('Beranda', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\vscode\\CI\\ci4\\public\\index.php')
+CRITICAL - 2024-10-15 06:39:45 --> ErrorException: Undefined array key ""
+[Method: GET, Route: /]
+in APPPATH\Views\Beranda.php on line 161.
+ 1 APPPATH\Views\Beranda.php(161): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key ""', 'D:\\vscode\\CI\\ci4\\app\\Views\\Beranda.php', 161)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\vscode\\CI\\ci4\\app\\Views\\Beranda.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Beranda', [], true)
+ 5 APPPATH\Controllers\Home.php(22): view('Beranda', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\vscode\\CI\\ci4\\public\\index.php')
+CRITICAL - 2024-10-15 06:42:53 --> ErrorException: Undefined array key "kategori_id"
+[Method: GET, Route: /]
+in APPPATH\Views\Beranda.php on line 46.
+ 1 APPPATH\Views\Beranda.php(46): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "kategori_id"', 'D:\\vscode\\CI\\ci4\\app\\Views\\Beranda.php', 46)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\vscode\\CI\\ci4\\app\\Views\\Beranda.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Beranda', [], true)
+ 5 APPPATH\Controllers\Home.php(22): view('Beranda', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\vscode\\CI\\ci4\\public\\index.php')
+CRITICAL - 2024-10-15 06:42:55 --> ErrorException: Undefined array key "kategori_id"
+[Method: GET, Route: /]
+in APPPATH\Views\Beranda.php on line 46.
+ 1 APPPATH\Views\Beranda.php(46): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "kategori_id"', 'D:\\vscode\\CI\\ci4\\app\\Views\\Beranda.php', 46)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\vscode\\CI\\ci4\\app\\Views\\Beranda.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Beranda', [], true)
+ 5 APPPATH\Controllers\Home.php(22): view('Beranda', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\vscode\\CI\\ci4\\public\\index.php')
+CRITICAL - 2024-10-15 06:46:12 --> ParseError: syntax error, unexpected token "return"
+[Method: GET, Route: /]
+in APPPATH\Controllers\Home.php on line 29.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->includeFile('D:\\vscode\\CI\\ci4\\app\\Controllers\\Home.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(272): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Home')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Home')
+ 4 SYSTEMPATH\CodeIgniter.php(887): class_exists('\\App\\Controllers\\Home', true)
+ 5 SYSTEMPATH\CodeIgniter.php(496): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('D:\\vscode\\CI\\ci4\\public\\index.php')
+CRITICAL - 2024-10-15 06:46:14 --> ParseError: syntax error, unexpected token "return"
+[Method: GET, Route: /]
+in APPPATH\Controllers\Home.php on line 29.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->includeFile('D:\\vscode\\CI\\ci4\\app\\Controllers\\Home.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(272): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Home')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Home')
+ 4 SYSTEMPATH\CodeIgniter.php(887): class_exists('\\App\\Controllers\\Home', true)
+ 5 SYSTEMPATH\CodeIgniter.php(496): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('D:\\vscode\\CI\\ci4\\public\\index.php')
+CRITICAL - 2024-10-15 06:46:48 --> ErrorException: Undefined variable $konfigurasi
+[Method: GET, Route: blog/17]
+in APPPATH\Views\Beranda.php on line 38.
+ 1 APPPATH\Views\Beranda.php(38): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $konfigurasi', 'D:\\vscode\\CI\\ci4\\app\\Views\\Beranda.php', 38)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\vscode\\CI\\ci4\\app\\Views\\Beranda.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Beranda', [], true)
+ 5 APPPATH\Controllers\Home.php(28): view('Beranda', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->blog('17')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\vscode\\CI\\ci4\\public\\index.php')
+CRITICAL - 2024-10-15 07:01:59 --> ErrorException: Undefined variable $k
+[Method: GET, Route: blog/17]
+in APPPATH\Views\Blog.php on line 104.
+ 1 APPPATH\Views\Blog.php(104): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $k', 'D:\\vscode\\CI\\ci4\\app\\Views\\Blog.php', 104)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\vscode\\CI\\ci4\\app\\Views\\Blog.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Blog', [], true)
+ 5 APPPATH\Controllers\Home.php(30): view('Blog', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->blog('17')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\vscode\\CI\\ci4\\public\\index.php')
+CRITICAL - 2024-10-15 07:02:19 --> ErrorException: Undefined variable $k
+[Method: GET, Route: blog/17]
+in APPPATH\Views\Blog.php on line 104.
+ 1 APPPATH\Views\Blog.php(104): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $k', 'D:\\vscode\\CI\\ci4\\app\\Views\\Blog.php', 104)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\vscode\\CI\\ci4\\app\\Views\\Blog.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Blog', [], true)
+ 5 APPPATH\Controllers\Home.php(30): view('Blog', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->blog('17')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\vscode\\CI\\ci4\\public\\index.php')
+CRITICAL - 2024-10-15 07:03:45 --> ParseError: syntax error, unexpected token ";"
+[Method: GET, Route: blog/17]
+in APPPATH\Views\Blog.php on line 67.
+ 1 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Blog', [], true)
+ 3 APPPATH\Controllers\Home.php(30): view('Blog', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->blog('17')
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('D:\\vscode\\CI\\ci4\\public\\index.php')
+CRITICAL - 2024-10-15 07:04:38 --> Error: Cannot use object of type App\Models\KontenModel as array
+[Method: GET, Route: blog/17]
+in APPPATH\Views\Blog.php on line 74.
+ 1 SYSTEMPATH\View\View.php(234): include()
+ 2 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Blog', [], true)
+ 4 APPPATH\Controllers\Home.php(30): view('Blog', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->blog('17')
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+11 SYSTEMPATH\rewrite.php(44): require_once('D:\\vscode\\CI\\ci4\\public\\index.php')
+CRITICAL - 2024-10-15 07:04:39 --> Error: Cannot use object of type App\Models\KontenModel as array
+[Method: GET, Route: blog/17]
+in APPPATH\Views\Blog.php on line 74.
+ 1 SYSTEMPATH\View\View.php(234): include()
+ 2 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Blog', [], true)
+ 4 APPPATH\Controllers\Home.php(30): view('Blog', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->blog('17')
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+11 SYSTEMPATH\rewrite.php(44): require_once('D:\\vscode\\CI\\ci4\\public\\index.php')
+CRITICAL - 2024-10-15 07:05:51 --> ErrorException: Undefined array key "slug  "
+[Method: GET, Route: /]
+in APPPATH\Views\Beranda.php on line 110.
+ 1 APPPATH\Views\Beranda.php(110): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "slug  "', 'D:\\vscode\\CI\\ci4\\app\\Views\\Beranda.php', 110)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\vscode\\CI\\ci4\\app\\Views\\Beranda.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Beranda', [], true)
+ 5 APPPATH\Controllers\Home.php(22): view('Beranda', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\vscode\\CI\\ci4\\public\\index.php')
+CRITICAL - 2024-10-15 07:05:52 --> ErrorException: Undefined array key "slug  "
+[Method: GET, Route: /]
+in APPPATH\Views\Beranda.php on line 110.
+ 1 APPPATH\Views\Beranda.php(110): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "slug  "', 'D:\\vscode\\CI\\ci4\\app\\Views\\Beranda.php', 110)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\vscode\\CI\\ci4\\app\\Views\\Beranda.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Beranda', [], true)
+ 5 APPPATH\Controllers\Home.php(22): view('Beranda', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\vscode\\CI\\ci4\\public\\index.php')
+CRITICAL - 2024-10-15 07:05:52 --> ErrorException: Undefined array key "slug  "
+[Method: GET, Route: /]
+in APPPATH\Views\Beranda.php on line 110.
+ 1 APPPATH\Views\Beranda.php(110): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "slug  "', 'D:\\vscode\\CI\\ci4\\app\\Views\\Beranda.php', 110)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\vscode\\CI\\ci4\\app\\Views\\Beranda.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Beranda', [], true)
+ 5 APPPATH\Controllers\Home.php(22): view('Beranda', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\vscode\\CI\\ci4\\public\\index.php')
+CRITICAL - 2024-10-15 07:06:01 --> ErrorException: Undefined array key "slug  "
+[Method: GET, Route: /]
+in APPPATH\Views\Beranda.php on line 110.
+ 1 APPPATH\Views\Beranda.php(110): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "slug  "', 'D:\\vscode\\CI\\ci4\\app\\Views\\Beranda.php', 110)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\vscode\\CI\\ci4\\app\\Views\\Beranda.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Beranda', [], true)
+ 5 APPPATH\Controllers\Home.php(22): view('Beranda', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\vscode\\CI\\ci4\\public\\index.php')
+CRITICAL - 2024-10-15 07:10:37 --> ErrorException: Trying to access array offset on value of type null
+[Method: GET, Route: blog/img/detail.jpg]
+in APPPATH\Views\Blog.php on line 74.
+ 1 APPPATH\Views\Blog.php(74): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'D:\\vscode\\CI\\ci4\\app\\Views\\Blog.php', 74)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\vscode\\CI\\ci4\\app\\Views\\Blog.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Blog', [], true)
+ 5 APPPATH\Controllers\Home.php(30): view('Blog', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->blog('img', 'detail.jpg')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\vscode\\CI\\ci4\\public\\index.php')
+CRITICAL - 2024-10-15 07:10:38 --> ErrorException: Trying to access array offset on value of type null
+[Method: GET, Route: blog/img/post-1.jpg]
+in APPPATH\Views\Blog.php on line 74.
+ 1 APPPATH\Views\Blog.php(74): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'D:\\vscode\\CI\\ci4\\app\\Views\\Blog.php', 74)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\vscode\\CI\\ci4\\app\\Views\\Blog.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Blog', [], true)
+ 5 APPPATH\Controllers\Home.php(30): view('Blog', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->blog('img', 'post-1.jpg')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\vscode\\CI\\ci4\\public\\index.php')
+CRITICAL - 2024-10-15 07:10:38 --> ErrorException: Trying to access array offset on value of type null
+[Method: GET, Route: blog/img/post-2.jpg]
+in APPPATH\Views\Blog.php on line 74.
+ 1 APPPATH\Views\Blog.php(74): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'D:\\vscode\\CI\\ci4\\app\\Views\\Blog.php', 74)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\vscode\\CI\\ci4\\app\\Views\\Blog.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Blog', [], true)
+ 5 APPPATH\Controllers\Home.php(30): view('Blog', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->blog('img', 'post-2.jpg')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\vscode\\CI\\ci4\\public\\index.php')
+CRITICAL - 2024-10-15 07:10:38 --> ErrorException: Trying to access array offset on value of type null
+[Method: GET, Route: blog/img/post-3.jpg]
+in APPPATH\Views\Blog.php on line 74.
+ 1 APPPATH\Views\Blog.php(74): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'D:\\vscode\\CI\\ci4\\app\\Views\\Blog.php', 74)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\vscode\\CI\\ci4\\app\\Views\\Blog.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Blog', [], true)
+ 5 APPPATH\Controllers\Home.php(30): view('Blog', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->blog('img', 'post-3.jpg')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\vscode\\CI\\ci4\\public\\index.php')
+CRITICAL - 2024-10-15 07:10:38 --> ErrorException: Trying to access array offset on value of type null
+[Method: GET, Route: blog/img/post-1.jpg]
+in APPPATH\Views\Blog.php on line 74.
+ 1 APPPATH\Views\Blog.php(74): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'D:\\vscode\\CI\\ci4\\app\\Views\\Blog.php', 74)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\vscode\\CI\\ci4\\app\\Views\\Blog.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Blog', [], true)
+ 5 APPPATH\Controllers\Home.php(30): view('Blog', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->blog('img', 'post-1.jpg')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\vscode\\CI\\ci4\\public\\index.php')
+CRITICAL - 2024-10-15 07:10:38 --> ErrorException: Trying to access array offset on value of type null
+[Method: GET, Route: blog/img/post-2.jpg]
+in APPPATH\Views\Blog.php on line 74.
+ 1 APPPATH\Views\Blog.php(74): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'D:\\vscode\\CI\\ci4\\app\\Views\\Blog.php', 74)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\vscode\\CI\\ci4\\app\\Views\\Blog.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Blog', [], true)
+ 5 APPPATH\Controllers\Home.php(30): view('Blog', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->blog('img', 'post-2.jpg')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\vscode\\CI\\ci4\\public\\index.php')
+CRITICAL - 2024-10-15 07:10:38 --> ErrorException: Trying to access array offset on value of type null
+[Method: GET, Route: blog/img/post-3.jpg]
+in APPPATH\Views\Blog.php on line 74.
+ 1 APPPATH\Views\Blog.php(74): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'D:\\vscode\\CI\\ci4\\app\\Views\\Blog.php', 74)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\vscode\\CI\\ci4\\app\\Views\\Blog.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Blog', [], true)
+ 5 APPPATH\Controllers\Home.php(30): view('Blog', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->blog('img', 'post-3.jpg')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\vscode\\CI\\ci4\\public\\index.php')
+CRITICAL - 2024-10-15 07:15:41 --> ErrorException: Trying to access array offset on value of type null
+[Method: GET, Route: blog/img/detail.jpg]
+in APPPATH\Views\Blog.php on line 74.
+ 1 APPPATH\Views\Blog.php(74): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'D:\\vscode\\CI\\ci4\\app\\Views\\Blog.php', 74)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\vscode\\CI\\ci4\\app\\Views\\Blog.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Blog', [], true)
+ 5 APPPATH\Controllers\Home.php(30): view('Blog', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->blog('img', 'detail.jpg')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\vscode\\CI\\ci4\\public\\index.php')
+CRITICAL - 2024-10-15 07:15:41 --> ErrorException: Trying to access array offset on value of type null
+[Method: GET, Route: blog/img/post-1.jpg]
+in APPPATH\Views\Blog.php on line 74.
+ 1 APPPATH\Views\Blog.php(74): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'D:\\vscode\\CI\\ci4\\app\\Views\\Blog.php', 74)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\vscode\\CI\\ci4\\app\\Views\\Blog.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Blog', [], true)
+ 5 APPPATH\Controllers\Home.php(30): view('Blog', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->blog('img', 'post-1.jpg')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\vscode\\CI\\ci4\\public\\index.php')
+CRITICAL - 2024-10-15 07:15:41 --> ErrorException: Trying to access array offset on value of type null
+[Method: GET, Route: blog/img/post-2.jpg]
+in APPPATH\Views\Blog.php on line 74.
+ 1 APPPATH\Views\Blog.php(74): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'D:\\vscode\\CI\\ci4\\app\\Views\\Blog.php', 74)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\vscode\\CI\\ci4\\app\\Views\\Blog.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Blog', [], true)
+ 5 APPPATH\Controllers\Home.php(30): view('Blog', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->blog('img', 'post-2.jpg')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\vscode\\CI\\ci4\\public\\index.php')
+CRITICAL - 2024-10-15 07:15:41 --> ErrorException: Trying to access array offset on value of type null
+[Method: GET, Route: blog/img/post-3.jpg]
+in APPPATH\Views\Blog.php on line 74.
+ 1 APPPATH\Views\Blog.php(74): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'D:\\vscode\\CI\\ci4\\app\\Views\\Blog.php', 74)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\vscode\\CI\\ci4\\app\\Views\\Blog.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Blog', [], true)
+ 5 APPPATH\Controllers\Home.php(30): view('Blog', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->blog('img', 'post-3.jpg')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\vscode\\CI\\ci4\\public\\index.php')
+CRITICAL - 2024-10-15 07:15:41 --> ErrorException: Trying to access array offset on value of type null
+[Method: GET, Route: blog/img/post-1.jpg]
+in APPPATH\Views\Blog.php on line 74.
+ 1 APPPATH\Views\Blog.php(74): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'D:\\vscode\\CI\\ci4\\app\\Views\\Blog.php', 74)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\vscode\\CI\\ci4\\app\\Views\\Blog.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Blog', [], true)
+ 5 APPPATH\Controllers\Home.php(30): view('Blog', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->blog('img', 'post-1.jpg')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\vscode\\CI\\ci4\\public\\index.php')
+CRITICAL - 2024-10-15 07:15:42 --> ErrorException: Trying to access array offset on value of type null
+[Method: GET, Route: blog/img/post-2.jpg]
+in APPPATH\Views\Blog.php on line 74.
+ 1 APPPATH\Views\Blog.php(74): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'D:\\vscode\\CI\\ci4\\app\\Views\\Blog.php', 74)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\vscode\\CI\\ci4\\app\\Views\\Blog.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Blog', [], true)
+ 5 APPPATH\Controllers\Home.php(30): view('Blog', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->blog('img', 'post-2.jpg')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\vscode\\CI\\ci4\\public\\index.php')
+CRITICAL - 2024-10-15 07:15:42 --> ErrorException: Trying to access array offset on value of type null
+[Method: GET, Route: blog/img/post-3.jpg]
+in APPPATH\Views\Blog.php on line 74.
+ 1 APPPATH\Views\Blog.php(74): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'D:\\vscode\\CI\\ci4\\app\\Views\\Blog.php', 74)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\vscode\\CI\\ci4\\app\\Views\\Blog.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Blog', [], true)
+ 5 APPPATH\Controllers\Home.php(30): view('Blog', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->blog('img', 'post-3.jpg')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\vscode\\CI\\ci4\\public\\index.php')
+CRITICAL - 2024-10-15 07:17:09 --> ErrorException: Trying to access array offset on value of type null
+[Method: GET, Route: blog/img/post-1.jpg]
+in APPPATH\Views\Blog.php on line 74.
+ 1 APPPATH\Views\Blog.php(74): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'D:\\vscode\\CI\\ci4\\app\\Views\\Blog.php', 74)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\vscode\\CI\\ci4\\app\\Views\\Blog.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Blog', [], true)
+ 5 APPPATH\Controllers\Home.php(30): view('Blog', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->blog('img', 'post-1.jpg')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\vscode\\CI\\ci4\\public\\index.php')
+CRITICAL - 2024-10-15 07:17:09 --> ErrorException: Trying to access array offset on value of type null
+[Method: GET, Route: blog/img/post-2.jpg]
+in APPPATH\Views\Blog.php on line 74.
+ 1 APPPATH\Views\Blog.php(74): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'D:\\vscode\\CI\\ci4\\app\\Views\\Blog.php', 74)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\vscode\\CI\\ci4\\app\\Views\\Blog.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Blog', [], true)
+ 5 APPPATH\Controllers\Home.php(30): view('Blog', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->blog('img', 'post-2.jpg')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\vscode\\CI\\ci4\\public\\index.php')
+CRITICAL - 2024-10-15 07:17:09 --> ErrorException: Trying to access array offset on value of type null
+[Method: GET, Route: blog/img/post-3.jpg]
+in APPPATH\Views\Blog.php on line 74.
+ 1 APPPATH\Views\Blog.php(74): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'D:\\vscode\\CI\\ci4\\app\\Views\\Blog.php', 74)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\vscode\\CI\\ci4\\app\\Views\\Blog.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Blog', [], true)
+ 5 APPPATH\Controllers\Home.php(30): view('Blog', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->blog('img', 'post-3.jpg')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\vscode\\CI\\ci4\\public\\index.php')
+CRITICAL - 2024-10-15 07:17:09 --> ErrorException: Trying to access array offset on value of type null
+[Method: GET, Route: blog/img/post-2.jpg]
+in APPPATH\Views\Blog.php on line 74.
+ 1 APPPATH\Views\Blog.php(74): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'D:\\vscode\\CI\\ci4\\app\\Views\\Blog.php', 74)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\vscode\\CI\\ci4\\app\\Views\\Blog.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Blog', [], true)
+ 5 APPPATH\Controllers\Home.php(30): view('Blog', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->blog('img', 'post-2.jpg')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\vscode\\CI\\ci4\\public\\index.php')
+CRITICAL - 2024-10-15 07:17:09 --> ErrorException: Trying to access array offset on value of type null
+[Method: GET, Route: blog/img/post-3.jpg]
+in APPPATH\Views\Blog.php on line 74.
+ 1 APPPATH\Views\Blog.php(74): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'D:\\vscode\\CI\\ci4\\app\\Views\\Blog.php', 74)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\vscode\\CI\\ci4\\app\\Views\\Blog.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Blog', [], true)
+ 5 APPPATH\Controllers\Home.php(30): view('Blog', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->blog('img', 'post-3.jpg')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\vscode\\CI\\ci4\\public\\index.php')
+CRITICAL - 2024-10-15 07:17:09 --> ErrorException: Trying to access array offset on value of type null
+[Method: GET, Route: blog/img/post-1.jpg]
+in APPPATH\Views\Blog.php on line 74.
+ 1 APPPATH\Views\Blog.php(74): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'D:\\vscode\\CI\\ci4\\app\\Views\\Blog.php', 74)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\vscode\\CI\\ci4\\app\\Views\\Blog.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Blog', [], true)
+ 5 APPPATH\Controllers\Home.php(30): view('Blog', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->blog('img', 'post-1.jpg')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\vscode\\CI\\ci4\\public\\index.php')
+CRITICAL - 2024-10-15 07:17:24 --> ErrorException: Trying to access array offset on value of type null
+[Method: GET, Route: blog/img/post-1.jpg]
+in APPPATH\Views\Blog.php on line 74.
+ 1 APPPATH\Views\Blog.php(74): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'D:\\vscode\\CI\\ci4\\app\\Views\\Blog.php', 74)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\vscode\\CI\\ci4\\app\\Views\\Blog.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Blog', [], true)
+ 5 APPPATH\Controllers\Home.php(30): view('Blog', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->blog('img', 'post-1.jpg')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\vscode\\CI\\ci4\\public\\index.php')
+CRITICAL - 2024-10-15 07:17:24 --> ErrorException: Trying to access array offset on value of type null
+[Method: GET, Route: blog/img/post-2.jpg]
+in APPPATH\Views\Blog.php on line 74.
+ 1 APPPATH\Views\Blog.php(74): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'D:\\vscode\\CI\\ci4\\app\\Views\\Blog.php', 74)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\vscode\\CI\\ci4\\app\\Views\\Blog.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Blog', [], true)
+ 5 APPPATH\Controllers\Home.php(30): view('Blog', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->blog('img', 'post-2.jpg')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\vscode\\CI\\ci4\\public\\index.php')
+CRITICAL - 2024-10-15 07:17:24 --> ErrorException: Trying to access array offset on value of type null
+[Method: GET, Route: blog/img/post-3.jpg]
+in APPPATH\Views\Blog.php on line 74.
+ 1 APPPATH\Views\Blog.php(74): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'D:\\vscode\\CI\\ci4\\app\\Views\\Blog.php', 74)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\vscode\\CI\\ci4\\app\\Views\\Blog.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Blog', [], true)
+ 5 APPPATH\Controllers\Home.php(30): view('Blog', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->blog('img', 'post-3.jpg')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\vscode\\CI\\ci4\\public\\index.php')
+CRITICAL - 2024-10-15 07:17:24 --> ErrorException: Trying to access array offset on value of type null
+[Method: GET, Route: blog/img/post-1.jpg]
+in APPPATH\Views\Blog.php on line 74.
+ 1 APPPATH\Views\Blog.php(74): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'D:\\vscode\\CI\\ci4\\app\\Views\\Blog.php', 74)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\vscode\\CI\\ci4\\app\\Views\\Blog.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Blog', [], true)
+ 5 APPPATH\Controllers\Home.php(30): view('Blog', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->blog('img', 'post-1.jpg')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\vscode\\CI\\ci4\\public\\index.php')
+CRITICAL - 2024-10-15 07:17:24 --> ErrorException: Trying to access array offset on value of type null
+[Method: GET, Route: blog/img/post-2.jpg]
+in APPPATH\Views\Blog.php on line 74.
+ 1 APPPATH\Views\Blog.php(74): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'D:\\vscode\\CI\\ci4\\app\\Views\\Blog.php', 74)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\vscode\\CI\\ci4\\app\\Views\\Blog.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Blog', [], true)
+ 5 APPPATH\Controllers\Home.php(30): view('Blog', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->blog('img', 'post-2.jpg')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\vscode\\CI\\ci4\\public\\index.php')
+CRITICAL - 2024-10-15 07:17:25 --> ErrorException: Trying to access array offset on value of type null
+[Method: GET, Route: blog/img/post-3.jpg]
+in APPPATH\Views\Blog.php on line 74.
+ 1 APPPATH\Views\Blog.php(74): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'D:\\vscode\\CI\\ci4\\app\\Views\\Blog.php', 74)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\vscode\\CI\\ci4\\app\\Views\\Blog.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Blog', [], true)
+ 5 APPPATH\Controllers\Home.php(30): view('Blog', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->blog('img', 'post-3.jpg')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\vscode\\CI\\ci4\\public\\index.php')
+CRITICAL - 2024-10-15 07:17:51 --> ErrorException: Trying to access array offset on value of type null
+[Method: GET, Route: blog/img/post-1.jpg]
+in APPPATH\Views\Blog.php on line 74.
+ 1 APPPATH\Views\Blog.php(74): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'D:\\vscode\\CI\\ci4\\app\\Views\\Blog.php', 74)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\vscode\\CI\\ci4\\app\\Views\\Blog.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Blog', [], true)
+ 5 APPPATH\Controllers\Home.php(30): view('Blog', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->blog('img', 'post-1.jpg')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\vscode\\CI\\ci4\\public\\index.php')
+CRITICAL - 2024-10-15 07:17:51 --> ErrorException: Trying to access array offset on value of type null
+[Method: GET, Route: blog/img/post-2.jpg]
+in APPPATH\Views\Blog.php on line 74.
+ 1 APPPATH\Views\Blog.php(74): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'D:\\vscode\\CI\\ci4\\app\\Views\\Blog.php', 74)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\vscode\\CI\\ci4\\app\\Views\\Blog.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Blog', [], true)
+ 5 APPPATH\Controllers\Home.php(30): view('Blog', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->blog('img', 'post-2.jpg')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\vscode\\CI\\ci4\\public\\index.php')
+CRITICAL - 2024-10-15 07:17:51 --> ErrorException: Trying to access array offset on value of type null
+[Method: GET, Route: blog/img/post-3.jpg]
+in APPPATH\Views\Blog.php on line 74.
+ 1 APPPATH\Views\Blog.php(74): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'D:\\vscode\\CI\\ci4\\app\\Views\\Blog.php', 74)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\vscode\\CI\\ci4\\app\\Views\\Blog.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Blog', [], true)
+ 5 APPPATH\Controllers\Home.php(30): view('Blog', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->blog('img', 'post-3.jpg')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\vscode\\CI\\ci4\\public\\index.php')
+CRITICAL - 2024-10-15 07:17:51 --> ErrorException: Trying to access array offset on value of type null
+[Method: GET, Route: blog/img/post-1.jpg]
+in APPPATH\Views\Blog.php on line 74.
+ 1 APPPATH\Views\Blog.php(74): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'D:\\vscode\\CI\\ci4\\app\\Views\\Blog.php', 74)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\vscode\\CI\\ci4\\app\\Views\\Blog.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Blog', [], true)
+ 5 APPPATH\Controllers\Home.php(30): view('Blog', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->blog('img', 'post-1.jpg')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\vscode\\CI\\ci4\\public\\index.php')
+CRITICAL - 2024-10-15 07:17:51 --> ErrorException: Trying to access array offset on value of type null
+[Method: GET, Route: blog/img/post-2.jpg]
+in APPPATH\Views\Blog.php on line 74.
+ 1 APPPATH\Views\Blog.php(74): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'D:\\vscode\\CI\\ci4\\app\\Views\\Blog.php', 74)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\vscode\\CI\\ci4\\app\\Views\\Blog.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Blog', [], true)
+ 5 APPPATH\Controllers\Home.php(30): view('Blog', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->blog('img', 'post-2.jpg')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\vscode\\CI\\ci4\\public\\index.php')
+CRITICAL - 2024-10-15 07:17:51 --> ErrorException: Trying to access array offset on value of type null
+[Method: GET, Route: blog/img/post-3.jpg]
+in APPPATH\Views\Blog.php on line 74.
+ 1 APPPATH\Views\Blog.php(74): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'D:\\vscode\\CI\\ci4\\app\\Views\\Blog.php', 74)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\vscode\\CI\\ci4\\app\\Views\\Blog.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Blog', [], true)
+ 5 APPPATH\Controllers\Home.php(30): view('Blog', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->blog('img', 'post-3.jpg')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\vscode\\CI\\ci4\\public\\index.php')
+CRITICAL - 2024-10-15 07:18:02 --> ErrorException: Undefined variable $onten
+[Method: GET, Route: blog/jasuke]
+in APPPATH\Views\Blog.php on line 78.
+ 1 APPPATH\Views\Blog.php(78): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $onten', 'D:\\vscode\\CI\\ci4\\app\\Views\\Blog.php', 78)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\vscode\\CI\\ci4\\app\\Views\\Blog.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Blog', [], true)
+ 5 APPPATH\Controllers\Home.php(30): view('Blog', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->blog('jasuke')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\vscode\\CI\\ci4\\public\\index.php')
+CRITICAL - 2024-10-15 07:18:07 --> ErrorException: Trying to access array offset on value of type null
+[Method: GET, Route: blog/img/detail.jpg]
+in APPPATH\Views\Blog.php on line 74.
+ 1 APPPATH\Views\Blog.php(74): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'D:\\vscode\\CI\\ci4\\app\\Views\\Blog.php', 74)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\vscode\\CI\\ci4\\app\\Views\\Blog.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Blog', [], true)
+ 5 APPPATH\Controllers\Home.php(30): view('Blog', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->blog('img', 'detail.jpg')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\vscode\\CI\\ci4\\public\\index.php')
+CRITICAL - 2024-10-15 07:18:07 --> ErrorException: Trying to access array offset on value of type null
+[Method: GET, Route: blog/img/post-1.jpg]
+in APPPATH\Views\Blog.php on line 74.
+ 1 APPPATH\Views\Blog.php(74): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'D:\\vscode\\CI\\ci4\\app\\Views\\Blog.php', 74)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\vscode\\CI\\ci4\\app\\Views\\Blog.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Blog', [], true)
+ 5 APPPATH\Controllers\Home.php(30): view('Blog', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->blog('img', 'post-1.jpg')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\vscode\\CI\\ci4\\public\\index.php')
+CRITICAL - 2024-10-15 07:18:07 --> ErrorException: Trying to access array offset on value of type null
+[Method: GET, Route: blog/img/post-2.jpg]
+in APPPATH\Views\Blog.php on line 74.
+ 1 APPPATH\Views\Blog.php(74): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'D:\\vscode\\CI\\ci4\\app\\Views\\Blog.php', 74)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\vscode\\CI\\ci4\\app\\Views\\Blog.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Blog', [], true)
+ 5 APPPATH\Controllers\Home.php(30): view('Blog', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->blog('img', 'post-2.jpg')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\vscode\\CI\\ci4\\public\\index.php')
+CRITICAL - 2024-10-15 07:18:07 --> ErrorException: Trying to access array offset on value of type null
+[Method: GET, Route: blog/img/post-3.jpg]
+in APPPATH\Views\Blog.php on line 74.
+ 1 APPPATH\Views\Blog.php(74): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'D:\\vscode\\CI\\ci4\\app\\Views\\Blog.php', 74)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\vscode\\CI\\ci4\\app\\Views\\Blog.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Blog', [], true)
+ 5 APPPATH\Controllers\Home.php(30): view('Blog', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->blog('img', 'post-3.jpg')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\vscode\\CI\\ci4\\public\\index.php')
+CRITICAL - 2024-10-15 07:18:07 --> ErrorException: Trying to access array offset on value of type null
+[Method: GET, Route: blog/img/post-1.jpg]
+in APPPATH\Views\Blog.php on line 74.
+ 1 APPPATH\Views\Blog.php(74): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'D:\\vscode\\CI\\ci4\\app\\Views\\Blog.php', 74)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\vscode\\CI\\ci4\\app\\Views\\Blog.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Blog', [], true)
+ 5 APPPATH\Controllers\Home.php(30): view('Blog', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->blog('img', 'post-1.jpg')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\vscode\\CI\\ci4\\public\\index.php')
+CRITICAL - 2024-10-15 07:18:07 --> ErrorException: Trying to access array offset on value of type null
+[Method: GET, Route: blog/img/post-2.jpg]
+in APPPATH\Views\Blog.php on line 74.
+ 1 APPPATH\Views\Blog.php(74): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'D:\\vscode\\CI\\ci4\\app\\Views\\Blog.php', 74)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\vscode\\CI\\ci4\\app\\Views\\Blog.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Blog', [], true)
+ 5 APPPATH\Controllers\Home.php(30): view('Blog', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->blog('img', 'post-2.jpg')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\vscode\\CI\\ci4\\public\\index.php')
+CRITICAL - 2024-10-15 07:18:07 --> ErrorException: Trying to access array offset on value of type null
+[Method: GET, Route: blog/img/post-3.jpg]
+in APPPATH\Views\Blog.php on line 74.
+ 1 APPPATH\Views\Blog.php(74): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'D:\\vscode\\CI\\ci4\\app\\Views\\Blog.php', 74)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\vscode\\CI\\ci4\\app\\Views\\Blog.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Blog', [], true)
+ 5 APPPATH\Controllers\Home.php(30): view('Blog', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->blog('img', 'post-3.jpg')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\vscode\\CI\\ci4\\public\\index.php')
+CRITICAL - 2024-10-15 07:18:10 --> ErrorException: Undefined variable $k
+[Method: GET, Route: blog/img/detail.jpg]
+in APPPATH\Views\Blog.php on line 104.
+ 1 APPPATH\Views\Blog.php(104): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $k', 'D:\\vscode\\CI\\ci4\\app\\Views\\Blog.php', 104)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\vscode\\CI\\ci4\\app\\Views\\Blog.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Blog', [], true)
+ 5 APPPATH\Controllers\Home.php(30): view('Blog', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->blog('img', 'detail.jpg')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\vscode\\CI\\ci4\\public\\index.php')
+CRITICAL - 2024-10-15 07:18:10 --> ErrorException: Undefined variable $k
+[Method: GET, Route: blog/img/post-1.jpg]
+in APPPATH\Views\Blog.php on line 104.
+ 1 APPPATH\Views\Blog.php(104): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $k', 'D:\\vscode\\CI\\ci4\\app\\Views\\Blog.php', 104)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\vscode\\CI\\ci4\\app\\Views\\Blog.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Blog', [], true)
+ 5 APPPATH\Controllers\Home.php(30): view('Blog', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->blog('img', 'post-1.jpg')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\vscode\\CI\\ci4\\public\\index.php')
+CRITICAL - 2024-10-15 07:18:10 --> ErrorException: Undefined variable $k
+[Method: GET, Route: blog/img/post-2.jpg]
+in APPPATH\Views\Blog.php on line 104.
+ 1 APPPATH\Views\Blog.php(104): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $k', 'D:\\vscode\\CI\\ci4\\app\\Views\\Blog.php', 104)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\vscode\\CI\\ci4\\app\\Views\\Blog.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Blog', [], true)
+ 5 APPPATH\Controllers\Home.php(30): view('Blog', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->blog('img', 'post-2.jpg')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\vscode\\CI\\ci4\\public\\index.php')
+CRITICAL - 2024-10-15 07:18:10 --> ErrorException: Undefined variable $k
+[Method: GET, Route: blog/img/post-3.jpg]
+in APPPATH\Views\Blog.php on line 104.
+ 1 APPPATH\Views\Blog.php(104): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $k', 'D:\\vscode\\CI\\ci4\\app\\Views\\Blog.php', 104)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\vscode\\CI\\ci4\\app\\Views\\Blog.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Blog', [], true)
+ 5 APPPATH\Controllers\Home.php(30): view('Blog', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->blog('img', 'post-3.jpg')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\vscode\\CI\\ci4\\public\\index.php')
+CRITICAL - 2024-10-15 07:18:10 --> ErrorException: Undefined variable $k
+[Method: GET, Route: blog/img/post-1.jpg]
+in APPPATH\Views\Blog.php on line 104.
+ 1 APPPATH\Views\Blog.php(104): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $k', 'D:\\vscode\\CI\\ci4\\app\\Views\\Blog.php', 104)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\vscode\\CI\\ci4\\app\\Views\\Blog.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Blog', [], true)
+ 5 APPPATH\Controllers\Home.php(30): view('Blog', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->blog('img', 'post-1.jpg')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\vscode\\CI\\ci4\\public\\index.php')
+CRITICAL - 2024-10-15 07:18:11 --> ErrorException: Undefined variable $k
+[Method: GET, Route: blog/img/post-2.jpg]
+in APPPATH\Views\Blog.php on line 104.
+ 1 APPPATH\Views\Blog.php(104): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $k', 'D:\\vscode\\CI\\ci4\\app\\Views\\Blog.php', 104)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\vscode\\CI\\ci4\\app\\Views\\Blog.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Blog', [], true)
+ 5 APPPATH\Controllers\Home.php(30): view('Blog', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->blog('img', 'post-2.jpg')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\vscode\\CI\\ci4\\public\\index.php')
+CRITICAL - 2024-10-15 07:18:11 --> ErrorException: Undefined variable $k
+[Method: GET, Route: blog/img/post-3.jpg]
+in APPPATH\Views\Blog.php on line 104.
+ 1 APPPATH\Views\Blog.php(104): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $k', 'D:\\vscode\\CI\\ci4\\app\\Views\\Blog.php', 104)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\vscode\\CI\\ci4\\app\\Views\\Blog.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Blog', [], true)
+ 5 APPPATH\Controllers\Home.php(30): view('Blog', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->blog('img', 'post-3.jpg')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\vscode\\CI\\ci4\\public\\index.php')
+CRITICAL - 2024-10-15 07:18:39 --> ErrorException: Undefined variable $k
+[Method: GET, Route: blog/jasuke]
+in APPPATH\Views\Blog.php on line 104.
+ 1 APPPATH\Views\Blog.php(104): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $k', 'D:\\vscode\\CI\\ci4\\app\\Views\\Blog.php', 104)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\vscode\\CI\\ci4\\app\\Views\\Blog.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Blog', [], true)
+ 5 APPPATH\Controllers\Home.php(30): view('Blog', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->blog('jasuke')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\vscode\\CI\\ci4\\public\\index.php')
+CRITICAL - 2024-10-15 07:18:51 --> ErrorException: Trying to access array offset on value of type null
+[Method: GET, Route: blog/img/post-1.jpg]
+in APPPATH\Views\Blog.php on line 74.
+ 1 APPPATH\Views\Blog.php(74): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'D:\\vscode\\CI\\ci4\\app\\Views\\Blog.php', 74)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\vscode\\CI\\ci4\\app\\Views\\Blog.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Blog', [], true)
+ 5 APPPATH\Controllers\Home.php(30): view('Blog', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->blog('img', 'post-1.jpg')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\vscode\\CI\\ci4\\public\\index.php')
+CRITICAL - 2024-10-15 07:18:52 --> ErrorException: Trying to access array offset on value of type null
+[Method: GET, Route: blog/img/post-2.jpg]
+in APPPATH\Views\Blog.php on line 74.
+ 1 APPPATH\Views\Blog.php(74): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'D:\\vscode\\CI\\ci4\\app\\Views\\Blog.php', 74)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\vscode\\CI\\ci4\\app\\Views\\Blog.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Blog', [], true)
+ 5 APPPATH\Controllers\Home.php(30): view('Blog', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->blog('img', 'post-2.jpg')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\vscode\\CI\\ci4\\public\\index.php')
+CRITICAL - 2024-10-15 07:18:52 --> ErrorException: Trying to access array offset on value of type null
+[Method: GET, Route: blog/img/post-3.jpg]
+in APPPATH\Views\Blog.php on line 74.
+ 1 APPPATH\Views\Blog.php(74): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'D:\\vscode\\CI\\ci4\\app\\Views\\Blog.php', 74)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\vscode\\CI\\ci4\\app\\Views\\Blog.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Blog', [], true)
+ 5 APPPATH\Controllers\Home.php(30): view('Blog', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->blog('img', 'post-3.jpg')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\vscode\\CI\\ci4\\public\\index.php')
+CRITICAL - 2024-10-15 07:18:52 --> ErrorException: Trying to access array offset on value of type null
+[Method: GET, Route: blog/img/post-1.jpg]
+in APPPATH\Views\Blog.php on line 74.
+ 1 APPPATH\Views\Blog.php(74): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'D:\\vscode\\CI\\ci4\\app\\Views\\Blog.php', 74)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\vscode\\CI\\ci4\\app\\Views\\Blog.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Blog', [], true)
+ 5 APPPATH\Controllers\Home.php(30): view('Blog', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->blog('img', 'post-1.jpg')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\vscode\\CI\\ci4\\public\\index.php')
+CRITICAL - 2024-10-15 07:18:52 --> ErrorException: Trying to access array offset on value of type null
+[Method: GET, Route: blog/img/post-2.jpg]
+in APPPATH\Views\Blog.php on line 74.
+ 1 APPPATH\Views\Blog.php(74): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'D:\\vscode\\CI\\ci4\\app\\Views\\Blog.php', 74)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\vscode\\CI\\ci4\\app\\Views\\Blog.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Blog', [], true)
+ 5 APPPATH\Controllers\Home.php(30): view('Blog', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->blog('img', 'post-2.jpg')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\vscode\\CI\\ci4\\public\\index.php')
+CRITICAL - 2024-10-15 07:18:52 --> ErrorException: Trying to access array offset on value of type null
+[Method: GET, Route: blog/img/post-3.jpg]
+in APPPATH\Views\Blog.php on line 74.
+ 1 APPPATH\Views\Blog.php(74): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'D:\\vscode\\CI\\ci4\\app\\Views\\Blog.php', 74)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\vscode\\CI\\ci4\\app\\Views\\Blog.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Blog', [], true)
+ 5 APPPATH\Controllers\Home.php(30): view('Blog', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->blog('img', 'post-3.jpg')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\vscode\\CI\\ci4\\public\\index.php')
+CRITICAL - 2024-10-15 07:19:25 --> ErrorException: Trying to access array offset on value of type null
+[Method: GET, Route: blog/img/post-1.jpg]
+in APPPATH\Views\Blog.php on line 74.
+ 1 APPPATH\Views\Blog.php(74): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'D:\\vscode\\CI\\ci4\\app\\Views\\Blog.php', 74)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\vscode\\CI\\ci4\\app\\Views\\Blog.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Blog', [], true)
+ 5 APPPATH\Controllers\Home.php(30): view('Blog', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->blog('img', 'post-1.jpg')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\vscode\\CI\\ci4\\public\\index.php')
+CRITICAL - 2024-10-15 07:19:25 --> ErrorException: Trying to access array offset on value of type null
+[Method: GET, Route: blog/img/post-2.jpg]
+in APPPATH\Views\Blog.php on line 74.
+ 1 APPPATH\Views\Blog.php(74): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'D:\\vscode\\CI\\ci4\\app\\Views\\Blog.php', 74)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\vscode\\CI\\ci4\\app\\Views\\Blog.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Blog', [], true)
+ 5 APPPATH\Controllers\Home.php(30): view('Blog', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->blog('img', 'post-2.jpg')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\vscode\\CI\\ci4\\public\\index.php')
+CRITICAL - 2024-10-15 07:19:25 --> ErrorException: Trying to access array offset on value of type null
+[Method: GET, Route: blog/img/post-3.jpg]
+in APPPATH\Views\Blog.php on line 74.
+ 1 APPPATH\Views\Blog.php(74): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'D:\\vscode\\CI\\ci4\\app\\Views\\Blog.php', 74)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\vscode\\CI\\ci4\\app\\Views\\Blog.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Blog', [], true)
+ 5 APPPATH\Controllers\Home.php(30): view('Blog', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->blog('img', 'post-3.jpg')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\vscode\\CI\\ci4\\public\\index.php')
+CRITICAL - 2024-10-15 07:19:25 --> ErrorException: Trying to access array offset on value of type null
+[Method: GET, Route: blog/img/post-1.jpg]
+in APPPATH\Views\Blog.php on line 74.
+ 1 APPPATH\Views\Blog.php(74): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'D:\\vscode\\CI\\ci4\\app\\Views\\Blog.php', 74)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\vscode\\CI\\ci4\\app\\Views\\Blog.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Blog', [], true)
+ 5 APPPATH\Controllers\Home.php(30): view('Blog', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->blog('img', 'post-1.jpg')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\vscode\\CI\\ci4\\public\\index.php')
+CRITICAL - 2024-10-15 07:19:25 --> ErrorException: Trying to access array offset on value of type null
+[Method: GET, Route: blog/img/post-2.jpg]
+in APPPATH\Views\Blog.php on line 74.
+ 1 APPPATH\Views\Blog.php(74): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'D:\\vscode\\CI\\ci4\\app\\Views\\Blog.php', 74)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\vscode\\CI\\ci4\\app\\Views\\Blog.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Blog', [], true)
+ 5 APPPATH\Controllers\Home.php(30): view('Blog', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->blog('img', 'post-2.jpg')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\vscode\\CI\\ci4\\public\\index.php')
+CRITICAL - 2024-10-15 07:19:25 --> ErrorException: Trying to access array offset on value of type null
+[Method: GET, Route: blog/img/post-3.jpg]
+in APPPATH\Views\Blog.php on line 74.
+ 1 APPPATH\Views\Blog.php(74): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'D:\\vscode\\CI\\ci4\\app\\Views\\Blog.php', 74)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\vscode\\CI\\ci4\\app\\Views\\Blog.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Blog', [], true)
+ 5 APPPATH\Controllers\Home.php(30): view('Blog', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->blog('img', 'post-3.jpg')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\vscode\\CI\\ci4\\public\\index.php')
+CRITICAL - 2024-10-15 07:19:38 --> ErrorException: Trying to access array offset on value of type null
+[Method: GET, Route: blog/img/favicon.ico]
+in APPPATH\Views\Blog.php on line 74.
+ 1 APPPATH\Views\Blog.php(74): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'D:\\vscode\\CI\\ci4\\app\\Views\\Blog.php', 74)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\vscode\\CI\\ci4\\app\\Views\\Blog.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Blog', [], true)
+ 5 APPPATH\Controllers\Home.php(30): view('Blog', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->blog('img', 'favicon.ico')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\vscode\\CI\\ci4\\public\\index.php')
+CRITICAL - 2024-10-15 07:21:02 --> ErrorException: Trying to access array offset on value of type null
+[Method: GET, Route: blog/img/favicon.ico]
+in APPPATH\Views\Blog.php on line 74.
+ 1 APPPATH\Views\Blog.php(74): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'D:\\vscode\\CI\\ci4\\app\\Views\\Blog.php', 74)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\vscode\\CI\\ci4\\app\\Views\\Blog.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Blog', [], true)
+ 5 APPPATH\Controllers\Home.php(30): view('Blog', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->blog('img', 'favicon.ico')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\vscode\\CI\\ci4\\public\\index.php')
+CRITICAL - 2024-10-15 07:21:14 --> ErrorException: Trying to access array offset on value of type null
+[Method: GET, Route: blog/img/favicon.ico]
+in APPPATH\Views\Blog.php on line 74.
+ 1 APPPATH\Views\Blog.php(74): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'D:\\vscode\\CI\\ci4\\app\\Views\\Blog.php', 74)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\vscode\\CI\\ci4\\app\\Views\\Blog.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Blog', [], true)
+ 5 APPPATH\Controllers\Home.php(30): view('Blog', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->blog('img', 'favicon.ico')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\vscode\\CI\\ci4\\public\\index.php')
+CRITICAL - 2024-10-15 07:25:19 --> ErrorException: Trying to access array offset on value of type null
+[Method: GET, Route: blog/img/favicon.ico]
+in APPPATH\Views\Blog.php on line 74.
+ 1 APPPATH\Views\Blog.php(74): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'D:\\vscode\\CI\\ci4\\app\\Views\\Blog.php', 74)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\vscode\\CI\\ci4\\app\\Views\\Blog.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Blog', [], true)
+ 5 APPPATH\Controllers\Home.php(30): view('Blog', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->blog('img', 'favicon.ico')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\vscode\\CI\\ci4\\public\\index.php')
+CRITICAL - 2024-10-15 07:25:51 --> ErrorException: Trying to access array offset on value of type null
+[Method: GET, Route: blog/img/favicon.ico]
+in APPPATH\Views\Blog.php on line 74.
+ 1 APPPATH\Views\Blog.php(74): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'D:\\vscode\\CI\\ci4\\app\\Views\\Blog.php', 74)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\vscode\\CI\\ci4\\app\\Views\\Blog.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Blog', [], true)
+ 5 APPPATH\Controllers\Home.php(30): view('Blog', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->blog('img', 'favicon.ico')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\vscode\\CI\\ci4\\public\\index.php')
+CRITICAL - 2024-10-15 07:26:35 --> ErrorException: Trying to access array offset on value of type null
+[Method: GET, Route: blog/img/favicon.ico]
+in APPPATH\Views\Blog.php on line 74.
+ 1 APPPATH\Views\Blog.php(74): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'D:\\vscode\\CI\\ci4\\app\\Views\\Blog.php', 74)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\vscode\\CI\\ci4\\app\\Views\\Blog.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Blog', [], true)
+ 5 APPPATH\Controllers\Home.php(30): view('Blog', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->blog('img', 'favicon.ico')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\vscode\\CI\\ci4\\public\\index.php')
+CRITICAL - 2024-10-15 07:27:04 --> ErrorException: Trying to access array offset on value of type null
+[Method: GET, Route: blog/img/favicon.ico]
+in APPPATH\Views\Blog.php on line 74.
+ 1 APPPATH\Views\Blog.php(74): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'D:\\vscode\\CI\\ci4\\app\\Views\\Blog.php', 74)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\vscode\\CI\\ci4\\app\\Views\\Blog.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Blog', [], true)
+ 5 APPPATH\Controllers\Home.php(30): view('Blog', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->blog('img', 'favicon.ico')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\vscode\\CI\\ci4\\public\\index.php')
+CRITICAL - 2024-10-15 07:32:22 --> ErrorException: Trying to access array offset on value of type null
+[Method: GET, Route: blog/img/favicon.ico]
+in APPPATH\Views\Blog.php on line 74.
+ 1 APPPATH\Views\Blog.php(74): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'D:\\vscode\\CI\\ci4\\app\\Views\\Blog.php', 74)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\vscode\\CI\\ci4\\app\\Views\\Blog.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Blog', [], true)
+ 5 APPPATH\Controllers\Home.php(30): view('Blog', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->blog('img', 'favicon.ico')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\vscode\\CI\\ci4\\public\\index.php')
+CRITICAL - 2024-10-15 07:37:39 --> ErrorException: Undefined variable $konfigurasi
+[Method: GET, Route: blog/jasuke]
+in APPPATH\Views\template.php on line 38.
+ 1 APPPATH\Views\template.php(38): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $konfigurasi', 'D:\\vscode\\CI\\ci4\\app\\Views\\template.php', 38)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\vscode\\CI\\ci4\\app\\Views\\template.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\View\View.php(250): CodeIgniter\View\View->render('template', [], true)
+ 5 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Blog', [], true)
+ 6 APPPATH\Controllers\Home.php(30): view('Blog', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->blog('jasuke')
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+13 SYSTEMPATH\rewrite.php(44): require_once('D:\\vscode\\CI\\ci4\\public\\index.php')
+CRITICAL - 2024-10-15 07:38:31 --> ErrorException: Trying to access array offset on value of type null
+[Method: GET, Route: blog/img/favicon.ico]
+in APPPATH\Views\Blog.php on line 14.
+ 1 APPPATH\Views\Blog.php(14): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'D:\\vscode\\CI\\ci4\\app\\Views\\Blog.php', 14)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\vscode\\CI\\ci4\\app\\Views\\Blog.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Blog', [], true)
+ 5 APPPATH\Controllers\Home.php(32): view('Blog', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->blog('img', 'favicon.ico')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\vscode\\CI\\ci4\\public\\index.php')
+CRITICAL - 2024-10-15 07:39:42 --> ErrorException: Trying to access array offset on value of type null
+[Method: GET, Route: blog/img/favicon.ico]
+in APPPATH\Views\Blog.php on line 14.
+ 1 APPPATH\Views\Blog.php(14): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'D:\\vscode\\CI\\ci4\\app\\Views\\Blog.php', 14)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\vscode\\CI\\ci4\\app\\Views\\Blog.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Blog', [], true)
+ 5 APPPATH\Controllers\Home.php(32): view('Blog', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->blog('img', 'favicon.ico')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\vscode\\CI\\ci4\\public\\index.php')
+CRITICAL - 2024-10-15 07:40:22 --> ErrorException: Trying to access array offset on value of type null
+[Method: GET, Route: blog/img/favicon.ico]
+in APPPATH\Views\Blog.php on line 14.
+ 1 APPPATH\Views\Blog.php(14): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'D:\\vscode\\CI\\ci4\\app\\Views\\Blog.php', 14)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\vscode\\CI\\ci4\\app\\Views\\Blog.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Blog', [], true)
+ 5 APPPATH\Controllers\Home.php(32): view('Blog', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->blog('img', 'favicon.ico')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\vscode\\CI\\ci4\\public\\index.php')
+CRITICAL - 2024-10-15 07:40:23 --> ErrorException: Trying to access array offset on value of type null
+[Method: GET, Route: blog/img/favicon.ico]
+in APPPATH\Views\Blog.php on line 14.
+ 1 APPPATH\Views\Blog.php(14): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'D:\\vscode\\CI\\ci4\\app\\Views\\Blog.php', 14)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\vscode\\CI\\ci4\\app\\Views\\Blog.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Blog', [], true)
+ 5 APPPATH\Controllers\Home.php(32): view('Blog', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->blog('img', 'favicon.ico')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\vscode\\CI\\ci4\\public\\index.php')
+ERROR - 2024-10-15 07:40:24 --> mysqli_sql_exception: Unknown column 'id' in 'where clause' in D:\vscode\CI\ci4\system\Database\MySQLi\Connection.php:312
+Stack trace:
+#0 D:\vscode\CI\ci4\system\Database\MySQLi\Connection.php(312): mysqli->query('SELECT *\nFROM `...', 0)
+#1 D:\vscode\CI\ci4\system\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 D:\vscode\CI\ci4\system\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 D:\vscode\CI\ci4\system\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 D:\vscode\CI\ci4\system\Model.php(330): CodeIgniter\Database\BaseBuilder->get()
+#5 D:\vscode\CI\ci4\system\BaseModel.php(714): CodeIgniter\Model->doFirst()
+#6 D:\vscode\CI\ci4\app\Controllers\Home.php(41): CodeIgniter\BaseModel->first()
+#7 D:\vscode\CI\ci4\system\CodeIgniter.php(933): App\Controllers\Home->sortKategori('4')
+#8 D:\vscode\CI\ci4\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#9 D:\vscode\CI\ci4\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 D:\vscode\CI\ci4\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#11 D:\vscode\CI\ci4\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#12 D:\vscode\CI\ci4\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#13 D:\vscode\CI\ci4\system\rewrite.php(44): require_once('D:\\vscode\\CI\\ci...')
+#14 {main}
+CRITICAL - 2024-10-15 07:40:24 --> CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'id' in 'where clause'
+[Method: GET, Route: kategori/4]
+in SYSTEMPATH\Database\BaseConnection.php on line 688.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `konten`
+JOIN `kategori` ON `konten`.`id_kategori` = `kategori`.`id_kategori`
+WHERE `id` = :id:
+ LIMIT 1', [...], false)
+ 2 SYSTEMPATH\Model.php(330): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH\BaseModel.php(714): CodeIgniter\Model->doFirst()
+ 4 APPPATH\Controllers\Home.php(41): CodeIgniter\BaseModel->first()
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->sortKategori('4')
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+11 SYSTEMPATH\rewrite.php(44): require_once('D:\\vscode\\CI\\ci4\\public\\index.php')
+CRITICAL - 2024-10-15 07:40:24 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'id' in 'where clause'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 317.
+ 1 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `konten`
+JOIN `kategori` ON `konten`.`id_kategori` = `kategori`.`id_kategori`
+WHERE `id` = \'4\'
+ LIMIT 1')
+ 2 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `konten`
+JOIN `kategori` ON `konten`.`id_kategori` = `kategori`.`id_kategori`
+WHERE `id` = \'4\'
+ LIMIT 1')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `konten`
+JOIN `kategori` ON `konten`.`id_kategori` = `kategori`.`id_kategori`
+WHERE `id` = :id:
+ LIMIT 1', [...], false)
+ 4 SYSTEMPATH\Model.php(330): CodeIgniter\Database\BaseBuilder->get()
+ 5 SYSTEMPATH\BaseModel.php(714): CodeIgniter\Model->doFirst()
+ 6 APPPATH\Controllers\Home.php(41): CodeIgniter\BaseModel->first()
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->sortKategori('4')
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+13 SYSTEMPATH\rewrite.php(44): require_once('D:\\vscode\\CI\\ci4\\public\\index.php')
+CRITICAL - 2024-10-15 07:40:24 --> [Caused by] mysqli_sql_exception: Unknown column 'id' in 'where clause'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 312.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(312): mysqli->query('SELECT *
+FROM `konten`
+JOIN `kategori` ON `konten`.`id_kategori` = `kategori`.`id_kategori`
+WHERE `id` = \'4\'
+ LIMIT 1', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `konten`
+JOIN `kategori` ON `konten`.`id_kategori` = `kategori`.`id_kategori`
+WHERE `id` = \'4\'
+ LIMIT 1')
+ 3 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `konten`
+JOIN `kategori` ON `konten`.`id_kategori` = `kategori`.`id_kategori`
+WHERE `id` = \'4\'
+ LIMIT 1')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `konten`
+JOIN `kategori` ON `konten`.`id_kategori` = `kategori`.`id_kategori`
+WHERE `id` = :id:
+ LIMIT 1', [...], false)
+ 5 SYSTEMPATH\Model.php(330): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH\BaseModel.php(714): CodeIgniter\Model->doFirst()
+ 7 APPPATH\Controllers\Home.php(41): CodeIgniter\BaseModel->first()
+ 8 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->sortKategori('4')
+ 9 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+10 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+13 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+14 SYSTEMPATH\rewrite.php(44): require_once('D:\\vscode\\CI\\ci4\\public\\index.php')
+ERROR - 2024-10-15 08:01:55 --> mysqli_sql_exception: Column 'id_kategori' in where clause is ambiguous in D:\vscode\CI\ci4\system\Database\MySQLi\Connection.php:312
+Stack trace:
+#0 D:\vscode\CI\ci4\system\Database\MySQLi\Connection.php(312): mysqli->query('SELECT *\nFROM `...', 0)
+#1 D:\vscode\CI\ci4\system\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 D:\vscode\CI\ci4\system\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 D:\vscode\CI\ci4\system\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 D:\vscode\CI\ci4\system\Model.php(330): CodeIgniter\Database\BaseBuilder->get()
+#5 D:\vscode\CI\ci4\system\BaseModel.php(714): CodeIgniter\Model->doFirst()
+#6 D:\vscode\CI\ci4\app\Controllers\Home.php(41): CodeIgniter\BaseModel->first()
+#7 D:\vscode\CI\ci4\system\CodeIgniter.php(933): App\Controllers\Home->sortKategori('4')
+#8 D:\vscode\CI\ci4\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#9 D:\vscode\CI\ci4\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 D:\vscode\CI\ci4\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#11 D:\vscode\CI\ci4\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#12 D:\vscode\CI\ci4\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#13 D:\vscode\CI\ci4\system\rewrite.php(44): require_once('D:\\vscode\\CI\\ci...')
+#14 {main}
+CRITICAL - 2024-10-15 08:01:55 --> CodeIgniter\Database\Exceptions\DatabaseException: Column 'id_kategori' in where clause is ambiguous
+[Method: GET, Route: kategori/4]
+in SYSTEMPATH\Database\BaseConnection.php on line 688.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `konten`
+JOIN `kategori` ON `konten`.`id_kategori` = `kategori`.`id_kategori`
+WHERE `id_kategori` = :id_kategori:
+ LIMIT 1', [...], false)
+ 2 SYSTEMPATH\Model.php(330): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH\BaseModel.php(714): CodeIgniter\Model->doFirst()
+ 4 APPPATH\Controllers\Home.php(41): CodeIgniter\BaseModel->first()
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->sortKategori('4')
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+11 SYSTEMPATH\rewrite.php(44): require_once('D:\\vscode\\CI\\ci4\\public\\index.php')
+CRITICAL - 2024-10-15 08:01:55 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Column 'id_kategori' in where clause is ambiguous
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 317.
+ 1 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `konten`
+JOIN `kategori` ON `konten`.`id_kategori` = `kategori`.`id_kategori`
+WHERE `id_kategori` = \'4\'
+ LIMIT 1')
+ 2 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `konten`
+JOIN `kategori` ON `konten`.`id_kategori` = `kategori`.`id_kategori`
+WHERE `id_kategori` = \'4\'
+ LIMIT 1')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `konten`
+JOIN `kategori` ON `konten`.`id_kategori` = `kategori`.`id_kategori`
+WHERE `id_kategori` = :id_kategori:
+ LIMIT 1', [...], false)
+ 4 SYSTEMPATH\Model.php(330): CodeIgniter\Database\BaseBuilder->get()
+ 5 SYSTEMPATH\BaseModel.php(714): CodeIgniter\Model->doFirst()
+ 6 APPPATH\Controllers\Home.php(41): CodeIgniter\BaseModel->first()
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->sortKategori('4')
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+13 SYSTEMPATH\rewrite.php(44): require_once('D:\\vscode\\CI\\ci4\\public\\index.php')
+CRITICAL - 2024-10-15 08:01:55 --> [Caused by] mysqli_sql_exception: Column 'id_kategori' in where clause is ambiguous
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 312.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(312): mysqli->query('SELECT *
+FROM `konten`
+JOIN `kategori` ON `konten`.`id_kategori` = `kategori`.`id_kategori`
+WHERE `id_kategori` = \'4\'
+ LIMIT 1', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `konten`
+JOIN `kategori` ON `konten`.`id_kategori` = `kategori`.`id_kategori`
+WHERE `id_kategori` = \'4\'
+ LIMIT 1')
+ 3 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `konten`
+JOIN `kategori` ON `konten`.`id_kategori` = `kategori`.`id_kategori`
+WHERE `id_kategori` = \'4\'
+ LIMIT 1')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `konten`
+JOIN `kategori` ON `konten`.`id_kategori` = `kategori`.`id_kategori`
+WHERE `id_kategori` = :id_kategori:
+ LIMIT 1', [...], false)
+ 5 SYSTEMPATH\Model.php(330): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH\BaseModel.php(714): CodeIgniter\Model->doFirst()
+ 7 APPPATH\Controllers\Home.php(41): CodeIgniter\BaseModel->first()
+ 8 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->sortKategori('4')
+ 9 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+10 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+13 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+14 SYSTEMPATH\rewrite.php(44): require_once('D:\\vscode\\CI\\ci4\\public\\index.php')
+ERROR - 2024-10-15 08:01:56 --> mysqli_sql_exception: Column 'id_kategori' in where clause is ambiguous in D:\vscode\CI\ci4\system\Database\MySQLi\Connection.php:312
+Stack trace:
+#0 D:\vscode\CI\ci4\system\Database\MySQLi\Connection.php(312): mysqli->query('SELECT *\nFROM `...', 0)
+#1 D:\vscode\CI\ci4\system\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 D:\vscode\CI\ci4\system\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 D:\vscode\CI\ci4\system\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 D:\vscode\CI\ci4\system\Model.php(330): CodeIgniter\Database\BaseBuilder->get()
+#5 D:\vscode\CI\ci4\system\BaseModel.php(714): CodeIgniter\Model->doFirst()
+#6 D:\vscode\CI\ci4\app\Controllers\Home.php(41): CodeIgniter\BaseModel->first()
+#7 D:\vscode\CI\ci4\system\CodeIgniter.php(933): App\Controllers\Home->sortKategori('4')
+#8 D:\vscode\CI\ci4\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#9 D:\vscode\CI\ci4\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 D:\vscode\CI\ci4\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#11 D:\vscode\CI\ci4\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#12 D:\vscode\CI\ci4\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#13 D:\vscode\CI\ci4\system\rewrite.php(44): require_once('D:\\vscode\\CI\\ci...')
+#14 {main}
+CRITICAL - 2024-10-15 08:01:56 --> CodeIgniter\Database\Exceptions\DatabaseException: Column 'id_kategori' in where clause is ambiguous
+[Method: GET, Route: kategori/4]
+in SYSTEMPATH\Database\BaseConnection.php on line 688.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `konten`
+JOIN `kategori` ON `konten`.`id_kategori` = `kategori`.`id_kategori`
+WHERE `id_kategori` = :id_kategori:
+ LIMIT 1', [...], false)
+ 2 SYSTEMPATH\Model.php(330): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH\BaseModel.php(714): CodeIgniter\Model->doFirst()
+ 4 APPPATH\Controllers\Home.php(41): CodeIgniter\BaseModel->first()
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->sortKategori('4')
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+11 SYSTEMPATH\rewrite.php(44): require_once('D:\\vscode\\CI\\ci4\\public\\index.php')
+CRITICAL - 2024-10-15 08:01:56 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Column 'id_kategori' in where clause is ambiguous
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 317.
+ 1 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `konten`
+JOIN `kategori` ON `konten`.`id_kategori` = `kategori`.`id_kategori`
+WHERE `id_kategori` = \'4\'
+ LIMIT 1')
+ 2 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `konten`
+JOIN `kategori` ON `konten`.`id_kategori` = `kategori`.`id_kategori`
+WHERE `id_kategori` = \'4\'
+ LIMIT 1')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `konten`
+JOIN `kategori` ON `konten`.`id_kategori` = `kategori`.`id_kategori`
+WHERE `id_kategori` = :id_kategori:
+ LIMIT 1', [...], false)
+ 4 SYSTEMPATH\Model.php(330): CodeIgniter\Database\BaseBuilder->get()
+ 5 SYSTEMPATH\BaseModel.php(714): CodeIgniter\Model->doFirst()
+ 6 APPPATH\Controllers\Home.php(41): CodeIgniter\BaseModel->first()
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->sortKategori('4')
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+13 SYSTEMPATH\rewrite.php(44): require_once('D:\\vscode\\CI\\ci4\\public\\index.php')
+CRITICAL - 2024-10-15 08:01:56 --> [Caused by] mysqli_sql_exception: Column 'id_kategori' in where clause is ambiguous
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 312.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(312): mysqli->query('SELECT *
+FROM `konten`
+JOIN `kategori` ON `konten`.`id_kategori` = `kategori`.`id_kategori`
+WHERE `id_kategori` = \'4\'
+ LIMIT 1', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `konten`
+JOIN `kategori` ON `konten`.`id_kategori` = `kategori`.`id_kategori`
+WHERE `id_kategori` = \'4\'
+ LIMIT 1')
+ 3 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `konten`
+JOIN `kategori` ON `konten`.`id_kategori` = `kategori`.`id_kategori`
+WHERE `id_kategori` = \'4\'
+ LIMIT 1')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `konten`
+JOIN `kategori` ON `konten`.`id_kategori` = `kategori`.`id_kategori`
+WHERE `id_kategori` = :id_kategori:
+ LIMIT 1', [...], false)
+ 5 SYSTEMPATH\Model.php(330): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH\BaseModel.php(714): CodeIgniter\Model->doFirst()
+ 7 APPPATH\Controllers\Home.php(41): CodeIgniter\BaseModel->first()
+ 8 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->sortKategori('4')
+ 9 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+10 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+13 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+14 SYSTEMPATH\rewrite.php(44): require_once('D:\\vscode\\CI\\ci4\\public\\index.php')
+ERROR - 2024-10-15 08:02:48 --> mysqli_sql_exception: Column 'id_kategori' in where clause is ambiguous in D:\vscode\CI\ci4\system\Database\MySQLi\Connection.php:312
+Stack trace:
+#0 D:\vscode\CI\ci4\system\Database\MySQLi\Connection.php(312): mysqli->query('SELECT *\nFROM `...', 0)
+#1 D:\vscode\CI\ci4\system\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 D:\vscode\CI\ci4\system\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 D:\vscode\CI\ci4\system\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 D:\vscode\CI\ci4\system\Model.php(330): CodeIgniter\Database\BaseBuilder->get()
+#5 D:\vscode\CI\ci4\system\BaseModel.php(714): CodeIgniter\Model->doFirst()
+#6 D:\vscode\CI\ci4\app\Controllers\Home.php(41): CodeIgniter\BaseModel->first()
+#7 D:\vscode\CI\ci4\system\CodeIgniter.php(933): App\Controllers\Home->sortKategori('4')
+#8 D:\vscode\CI\ci4\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#9 D:\vscode\CI\ci4\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 D:\vscode\CI\ci4\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#11 D:\vscode\CI\ci4\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#12 D:\vscode\CI\ci4\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#13 D:\vscode\CI\ci4\system\rewrite.php(44): require_once('D:\\vscode\\CI\\ci...')
+#14 {main}
+CRITICAL - 2024-10-15 08:02:48 --> CodeIgniter\Database\Exceptions\DatabaseException: Column 'id_kategori' in where clause is ambiguous
+[Method: GET, Route: kategori/4]
+in SYSTEMPATH\Database\BaseConnection.php on line 688.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `konten`
+JOIN `kategori` ON `konten`.`id_kategori` = `kategori`.`id_kategori`
+WHERE `id_kategori` = :id_kategori:
+ LIMIT 1', [...], false)
+ 2 SYSTEMPATH\Model.php(330): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH\BaseModel.php(714): CodeIgniter\Model->doFirst()
+ 4 APPPATH\Controllers\Home.php(41): CodeIgniter\BaseModel->first()
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->sortKategori('4')
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+11 SYSTEMPATH\rewrite.php(44): require_once('D:\\vscode\\CI\\ci4\\public\\index.php')
+CRITICAL - 2024-10-15 08:02:48 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Column 'id_kategori' in where clause is ambiguous
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 317.
+ 1 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `konten`
+JOIN `kategori` ON `konten`.`id_kategori` = `kategori`.`id_kategori`
+WHERE `id_kategori` = \'4\'
+ LIMIT 1')
+ 2 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `konten`
+JOIN `kategori` ON `konten`.`id_kategori` = `kategori`.`id_kategori`
+WHERE `id_kategori` = \'4\'
+ LIMIT 1')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `konten`
+JOIN `kategori` ON `konten`.`id_kategori` = `kategori`.`id_kategori`
+WHERE `id_kategori` = :id_kategori:
+ LIMIT 1', [...], false)
+ 4 SYSTEMPATH\Model.php(330): CodeIgniter\Database\BaseBuilder->get()
+ 5 SYSTEMPATH\BaseModel.php(714): CodeIgniter\Model->doFirst()
+ 6 APPPATH\Controllers\Home.php(41): CodeIgniter\BaseModel->first()
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->sortKategori('4')
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+13 SYSTEMPATH\rewrite.php(44): require_once('D:\\vscode\\CI\\ci4\\public\\index.php')
+CRITICAL - 2024-10-15 08:02:48 --> [Caused by] mysqli_sql_exception: Column 'id_kategori' in where clause is ambiguous
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 312.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(312): mysqli->query('SELECT *
+FROM `konten`
+JOIN `kategori` ON `konten`.`id_kategori` = `kategori`.`id_kategori`
+WHERE `id_kategori` = \'4\'
+ LIMIT 1', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `konten`
+JOIN `kategori` ON `konten`.`id_kategori` = `kategori`.`id_kategori`
+WHERE `id_kategori` = \'4\'
+ LIMIT 1')
+ 3 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `konten`
+JOIN `kategori` ON `konten`.`id_kategori` = `kategori`.`id_kategori`
+WHERE `id_kategori` = \'4\'
+ LIMIT 1')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `konten`
+JOIN `kategori` ON `konten`.`id_kategori` = `kategori`.`id_kategori`
+WHERE `id_kategori` = :id_kategori:
+ LIMIT 1', [...], false)
+ 5 SYSTEMPATH\Model.php(330): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH\BaseModel.php(714): CodeIgniter\Model->doFirst()
+ 7 APPPATH\Controllers\Home.php(41): CodeIgniter\BaseModel->first()
+ 8 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->sortKategori('4')
+ 9 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+10 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+13 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+14 SYSTEMPATH\rewrite.php(44): require_once('D:\\vscode\\CI\\ci4\\public\\index.php')
+ERROR - 2024-10-15 08:03:05 --> mysqli_sql_exception: Column 'id_kategori' in where clause is ambiguous in D:\vscode\CI\ci4\system\Database\MySQLi\Connection.php:312
+Stack trace:
+#0 D:\vscode\CI\ci4\system\Database\MySQLi\Connection.php(312): mysqli->query('SELECT *\nFROM `...', 0)
+#1 D:\vscode\CI\ci4\system\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 D:\vscode\CI\ci4\system\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 D:\vscode\CI\ci4\system\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 D:\vscode\CI\ci4\system\Model.php(330): CodeIgniter\Database\BaseBuilder->get()
+#5 D:\vscode\CI\ci4\system\BaseModel.php(714): CodeIgniter\Model->doFirst()
+#6 D:\vscode\CI\ci4\app\Controllers\Home.php(44): CodeIgniter\BaseModel->first()
+#7 D:\vscode\CI\ci4\system\CodeIgniter.php(933): App\Controllers\Home->sortKategori('4')
+#8 D:\vscode\CI\ci4\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#9 D:\vscode\CI\ci4\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 D:\vscode\CI\ci4\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#11 D:\vscode\CI\ci4\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#12 D:\vscode\CI\ci4\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#13 D:\vscode\CI\ci4\system\rewrite.php(44): require_once('D:\\vscode\\CI\\ci...')
+#14 {main}
+CRITICAL - 2024-10-15 08:03:05 --> CodeIgniter\Database\Exceptions\DatabaseException: Column 'id_kategori' in where clause is ambiguous
+[Method: GET, Route: kategori/4]
+in SYSTEMPATH\Database\BaseConnection.php on line 688.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `konten`
+JOIN `kategori` ON `konten`.`id_kategori` = `kategori`.`id_kategori`
+WHERE `id_kategori` = :id_kategori:
+ LIMIT 1', [...], false)
+ 2 SYSTEMPATH\Model.php(330): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH\BaseModel.php(714): CodeIgniter\Model->doFirst()
+ 4 APPPATH\Controllers\Home.php(44): CodeIgniter\BaseModel->first()
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->sortKategori('4')
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+11 SYSTEMPATH\rewrite.php(44): require_once('D:\\vscode\\CI\\ci4\\public\\index.php')
+CRITICAL - 2024-10-15 08:03:05 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Column 'id_kategori' in where clause is ambiguous
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 317.
+ 1 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `konten`
+JOIN `kategori` ON `konten`.`id_kategori` = `kategori`.`id_kategori`
+WHERE `id_kategori` = \'4\'
+ LIMIT 1')
+ 2 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `konten`
+JOIN `kategori` ON `konten`.`id_kategori` = `kategori`.`id_kategori`
+WHERE `id_kategori` = \'4\'
+ LIMIT 1')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `konten`
+JOIN `kategori` ON `konten`.`id_kategori` = `kategori`.`id_kategori`
+WHERE `id_kategori` = :id_kategori:
+ LIMIT 1', [...], false)
+ 4 SYSTEMPATH\Model.php(330): CodeIgniter\Database\BaseBuilder->get()
+ 5 SYSTEMPATH\BaseModel.php(714): CodeIgniter\Model->doFirst()
+ 6 APPPATH\Controllers\Home.php(44): CodeIgniter\BaseModel->first()
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->sortKategori('4')
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+13 SYSTEMPATH\rewrite.php(44): require_once('D:\\vscode\\CI\\ci4\\public\\index.php')
+CRITICAL - 2024-10-15 08:03:05 --> [Caused by] mysqli_sql_exception: Column 'id_kategori' in where clause is ambiguous
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 312.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(312): mysqli->query('SELECT *
+FROM `konten`
+JOIN `kategori` ON `konten`.`id_kategori` = `kategori`.`id_kategori`
+WHERE `id_kategori` = \'4\'
+ LIMIT 1', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `konten`
+JOIN `kategori` ON `konten`.`id_kategori` = `kategori`.`id_kategori`
+WHERE `id_kategori` = \'4\'
+ LIMIT 1')
+ 3 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `konten`
+JOIN `kategori` ON `konten`.`id_kategori` = `kategori`.`id_kategori`
+WHERE `id_kategori` = \'4\'
+ LIMIT 1')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `konten`
+JOIN `kategori` ON `konten`.`id_kategori` = `kategori`.`id_kategori`
+WHERE `id_kategori` = :id_kategori:
+ LIMIT 1', [...], false)
+ 5 SYSTEMPATH\Model.php(330): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH\BaseModel.php(714): CodeIgniter\Model->doFirst()
+ 7 APPPATH\Controllers\Home.php(44): CodeIgniter\BaseModel->first()
+ 8 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->sortKategori('4')
+ 9 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+10 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+13 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+14 SYSTEMPATH\rewrite.php(44): require_once('D:\\vscode\\CI\\ci4\\public\\index.php')
+ERROR - 2024-10-15 08:03:15 --> mysqli_sql_exception: Column 'id_kategori' in where clause is ambiguous in D:\vscode\CI\ci4\system\Database\MySQLi\Connection.php:312
+Stack trace:
+#0 D:\vscode\CI\ci4\system\Database\MySQLi\Connection.php(312): mysqli->query('SELECT *\nFROM `...', 0)
+#1 D:\vscode\CI\ci4\system\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 D:\vscode\CI\ci4\system\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 D:\vscode\CI\ci4\system\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 D:\vscode\CI\ci4\system\Model.php(330): CodeIgniter\Database\BaseBuilder->get()
+#5 D:\vscode\CI\ci4\system\BaseModel.php(714): CodeIgniter\Model->doFirst()
+#6 D:\vscode\CI\ci4\app\Controllers\Home.php(44): CodeIgniter\BaseModel->first()
+#7 D:\vscode\CI\ci4\system\CodeIgniter.php(933): App\Controllers\Home->sortKategori('4')
+#8 D:\vscode\CI\ci4\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#9 D:\vscode\CI\ci4\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 D:\vscode\CI\ci4\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#11 D:\vscode\CI\ci4\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#12 D:\vscode\CI\ci4\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#13 D:\vscode\CI\ci4\system\rewrite.php(44): require_once('D:\\vscode\\CI\\ci...')
+#14 {main}
+CRITICAL - 2024-10-15 08:03:15 --> CodeIgniter\Database\Exceptions\DatabaseException: Column 'id_kategori' in where clause is ambiguous
+[Method: GET, Route: kategori/4]
+in SYSTEMPATH\Database\BaseConnection.php on line 688.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `konten`
+JOIN `kategori` ON `konten`.`id_kategori` = `kategori`.`id_kategori`
+WHERE `id_kategori` = :id_kategori:
+ LIMIT 1', [...], false)
+ 2 SYSTEMPATH\Model.php(330): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH\BaseModel.php(714): CodeIgniter\Model->doFirst()
+ 4 APPPATH\Controllers\Home.php(44): CodeIgniter\BaseModel->first()
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->sortKategori('4')
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+11 SYSTEMPATH\rewrite.php(44): require_once('D:\\vscode\\CI\\ci4\\public\\index.php')
+CRITICAL - 2024-10-15 08:03:15 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Column 'id_kategori' in where clause is ambiguous
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 317.
+ 1 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `konten`
+JOIN `kategori` ON `konten`.`id_kategori` = `kategori`.`id_kategori`
+WHERE `id_kategori` = \'4\'
+ LIMIT 1')
+ 2 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `konten`
+JOIN `kategori` ON `konten`.`id_kategori` = `kategori`.`id_kategori`
+WHERE `id_kategori` = \'4\'
+ LIMIT 1')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `konten`
+JOIN `kategori` ON `konten`.`id_kategori` = `kategori`.`id_kategori`
+WHERE `id_kategori` = :id_kategori:
+ LIMIT 1', [...], false)
+ 4 SYSTEMPATH\Model.php(330): CodeIgniter\Database\BaseBuilder->get()
+ 5 SYSTEMPATH\BaseModel.php(714): CodeIgniter\Model->doFirst()
+ 6 APPPATH\Controllers\Home.php(44): CodeIgniter\BaseModel->first()
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->sortKategori('4')
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+13 SYSTEMPATH\rewrite.php(44): require_once('D:\\vscode\\CI\\ci4\\public\\index.php')
+CRITICAL - 2024-10-15 08:03:15 --> [Caused by] mysqli_sql_exception: Column 'id_kategori' in where clause is ambiguous
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 312.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(312): mysqli->query('SELECT *
+FROM `konten`
+JOIN `kategori` ON `konten`.`id_kategori` = `kategori`.`id_kategori`
+WHERE `id_kategori` = \'4\'
+ LIMIT 1', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `konten`
+JOIN `kategori` ON `konten`.`id_kategori` = `kategori`.`id_kategori`
+WHERE `id_kategori` = \'4\'
+ LIMIT 1')
+ 3 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `konten`
+JOIN `kategori` ON `konten`.`id_kategori` = `kategori`.`id_kategori`
+WHERE `id_kategori` = \'4\'
+ LIMIT 1')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `konten`
+JOIN `kategori` ON `konten`.`id_kategori` = `kategori`.`id_kategori`
+WHERE `id_kategori` = :id_kategori:
+ LIMIT 1', [...], false)
+ 5 SYSTEMPATH\Model.php(330): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH\BaseModel.php(714): CodeIgniter\Model->doFirst()
+ 7 APPPATH\Controllers\Home.php(44): CodeIgniter\BaseModel->first()
+ 8 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->sortKategori('4')
+ 9 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+10 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+13 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+14 SYSTEMPATH\rewrite.php(44): require_once('D:\\vscode\\CI\\ci4\\public\\index.php')
+ERROR - 2024-10-15 08:03:43 --> mysqli_sql_exception: Column 'id_kategori' in where clause is ambiguous in D:\vscode\CI\ci4\system\Database\MySQLi\Connection.php:312
+Stack trace:
+#0 D:\vscode\CI\ci4\system\Database\MySQLi\Connection.php(312): mysqli->query('SELECT *\nFROM `...', 0)
+#1 D:\vscode\CI\ci4\system\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 D:\vscode\CI\ci4\system\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 D:\vscode\CI\ci4\system\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 D:\vscode\CI\ci4\system\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+#5 D:\vscode\CI\ci4\system\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+#6 D:\vscode\CI\ci4\app\Controllers\Home.php(44): CodeIgniter\BaseModel->findAll()
+#7 D:\vscode\CI\ci4\system\CodeIgniter.php(933): App\Controllers\Home->sortKategori('4')
+#8 D:\vscode\CI\ci4\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#9 D:\vscode\CI\ci4\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 D:\vscode\CI\ci4\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#11 D:\vscode\CI\ci4\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#12 D:\vscode\CI\ci4\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#13 D:\vscode\CI\ci4\system\rewrite.php(44): require_once('D:\\vscode\\CI\\ci...')
+#14 {main}
+CRITICAL - 2024-10-15 08:03:43 --> CodeIgniter\Database\Exceptions\DatabaseException: Column 'id_kategori' in where clause is ambiguous
+[Method: GET, Route: kategori/4]
+in SYSTEMPATH\Database\BaseConnection.php on line 688.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `konten`
+JOIN `kategori` ON `konten`.`id_kategori` = `kategori`.`id_kategori`
+WHERE `id_kategori` = :id_kategori:', [...], false)
+ 2 SYSTEMPATH\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+ 4 APPPATH\Controllers\Home.php(44): CodeIgniter\BaseModel->findAll()
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->sortKategori('4')
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+11 SYSTEMPATH\rewrite.php(44): require_once('D:\\vscode\\CI\\ci4\\public\\index.php')
+CRITICAL - 2024-10-15 08:03:43 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Column 'id_kategori' in where clause is ambiguous
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 317.
+ 1 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `konten`
+JOIN `kategori` ON `konten`.`id_kategori` = `kategori`.`id_kategori`
+WHERE `id_kategori` = \'4\'')
+ 2 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `konten`
+JOIN `kategori` ON `konten`.`id_kategori` = `kategori`.`id_kategori`
+WHERE `id_kategori` = \'4\'')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `konten`
+JOIN `kategori` ON `konten`.`id_kategori` = `kategori`.`id_kategori`
+WHERE `id_kategori` = :id_kategori:', [...], false)
+ 4 SYSTEMPATH\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+ 5 SYSTEMPATH\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+ 6 APPPATH\Controllers\Home.php(44): CodeIgniter\BaseModel->findAll()
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->sortKategori('4')
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+13 SYSTEMPATH\rewrite.php(44): require_once('D:\\vscode\\CI\\ci4\\public\\index.php')
+CRITICAL - 2024-10-15 08:03:43 --> [Caused by] mysqli_sql_exception: Column 'id_kategori' in where clause is ambiguous
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 312.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(312): mysqli->query('SELECT *
+FROM `konten`
+JOIN `kategori` ON `konten`.`id_kategori` = `kategori`.`id_kategori`
+WHERE `id_kategori` = \'4\'', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `konten`
+JOIN `kategori` ON `konten`.`id_kategori` = `kategori`.`id_kategori`
+WHERE `id_kategori` = \'4\'')
+ 3 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `konten`
+JOIN `kategori` ON `konten`.`id_kategori` = `kategori`.`id_kategori`
+WHERE `id_kategori` = \'4\'')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `konten`
+JOIN `kategori` ON `konten`.`id_kategori` = `kategori`.`id_kategori`
+WHERE `id_kategori` = :id_kategori:', [...], false)
+ 5 SYSTEMPATH\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+ 7 APPPATH\Controllers\Home.php(44): CodeIgniter\BaseModel->findAll()
+ 8 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->sortKategori('4')
+ 9 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+10 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+13 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+14 SYSTEMPATH\rewrite.php(44): require_once('D:\\vscode\\CI\\ci4\\public\\index.php')
+CRITICAL - 2024-10-15 08:21:56 --> ErrorException: Trying to access array offset on value of type null
+[Method: GET, Route: blog/img/favicon.ico]
+in APPPATH\Views\Blog.php on line 14.
+ 1 APPPATH\Views\Blog.php(14): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'D:\\vscode\\CI\\ci4\\app\\Views\\Blog.php', 14)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\vscode\\CI\\ci4\\app\\Views\\Blog.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Blog', [], true)
+ 5 APPPATH\Controllers\Home.php(32): view('Blog', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->blog('img', 'favicon.ico')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\vscode\\CI\\ci4\\public\\index.php')

@@ -1,0 +1,619 @@
+INFO - 2024-11-18 05:39:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-18 05:39:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-18 05:40:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-18 05:40:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-18 05:41:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-18 05:41:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-18 05:41:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-18 05:41:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-18 05:41:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-11-18 05:41:22 --> ErrorException: Trying to access array offset on value of type null
+[Method: GET, Route: blog/img/favicon.ico]
+in APPPATH\Views\Blog.php on line 14.
+ 1 APPPATH\Views\Blog.php(14): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'D:\\vscode\\CI\\ci4\\app\\Views\\Blog.php', 14)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\vscode\\CI\\ci4\\app\\Views\\Blog.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Blog', [], true)
+ 5 APPPATH\Controllers\Home.php(32): view('Blog', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->blog('img', 'favicon.ico')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\vscode\\CI\\ci4\\public\\index.php')
+INFO - 2024-11-18 05:41:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-18 05:44:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-18 05:44:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-18 05:44:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-18 05:44:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-18 05:44:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-18 05:44:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-18 05:46:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-18 05:46:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-18 05:48:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-18 05:48:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-18 05:48:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-18 05:51:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-18 05:52:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-18 05:52:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-18 05:52:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-18 05:54:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-18 05:54:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-11-18 21:17:09 --> ErrorException: Undefined array key "nama"
+[Method: GET, Route: /]
+in APPPATH\Views\Beranda.php on line 127.
+ 1 APPPATH\Views\Beranda.php(127): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "nama"', 'D:\\vscode\\CI\\ci4\\app\\Views\\Beranda.php', 127)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\vscode\\CI\\ci4\\app\\Views\\Beranda.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Beranda', [], true)
+ 5 APPPATH\Controllers\Home.php(22): view('Beranda', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\vscode\\CI\\ci4\\public\\index.php')
+CRITICAL - 2024-11-18 21:19:54 --> ParseError: syntax error, unexpected token "return"
+[Method: GET, Route: /]
+in APPPATH\Controllers\Home.php on line 23.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->includeFile('D:\\vscode\\CI\\ci4\\app\\Controllers\\Home.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(272): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Home')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Home')
+ 4 SYSTEMPATH\CodeIgniter.php(887): class_exists('\\App\\Controllers\\Home', true)
+ 5 SYSTEMPATH\CodeIgniter.php(496): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('D:\\vscode\\CI\\ci4\\public\\index.php')
+CRITICAL - 2024-11-18 21:24:22 --> ErrorException: Undefined array key "nama_katogori"
+[Method: GET, Route: /]
+in APPPATH\Views\Beranda.php on line 136.
+ 1 APPPATH\Views\Beranda.php(136): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "nama_katogori"', 'D:\\vscode\\CI\\ci4\\app\\Views\\Beranda.php', 136)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\vscode\\CI\\ci4\\app\\Views\\Beranda.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Beranda', [], true)
+ 5 APPPATH\Controllers\Home.php(22): view('Beranda', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\vscode\\CI\\ci4\\public\\index.php')
+CRITICAL - 2024-11-18 21:24:23 --> ErrorException: Undefined array key "nama_katogori"
+[Method: GET, Route: /]
+in APPPATH\Views\Beranda.php on line 136.
+ 1 APPPATH\Views\Beranda.php(136): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "nama_katogori"', 'D:\\vscode\\CI\\ci4\\app\\Views\\Beranda.php', 136)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\vscode\\CI\\ci4\\app\\Views\\Beranda.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Beranda', [], true)
+ 5 APPPATH\Controllers\Home.php(22): view('Beranda', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\vscode\\CI\\ci4\\public\\index.php')
+CRITICAL - 2024-11-18 21:28:00 --> ErrorException: Undefined variable $k
+[Method: GET, Route: /]
+in APPPATH\Views\Beranda.php on line 137.
+ 1 APPPATH\Views\Beranda.php(137): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $k', 'D:\\vscode\\CI\\ci4\\app\\Views\\Beranda.php', 137)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\vscode\\CI\\ci4\\app\\Views\\Beranda.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Beranda', [], true)
+ 5 APPPATH\Controllers\Home.php(22): view('Beranda', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\vscode\\CI\\ci4\\public\\index.php')
+CRITICAL - 2024-11-18 21:43:20 --> ErrorException: Undefined variable $carousel
+[Method: GET, Route: /]
+in APPPATH\Views\Beranda.php on line 11.
+ 1 APPPATH\Views\Beranda.php(11): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $carousel', 'D:\\vscode\\CI\\ci4\\app\\Views\\Beranda.php', 11)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\vscode\\CI\\ci4\\app\\Views\\Beranda.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Beranda', [], true)
+ 5 APPPATH\Controllers\Home.php(22): view('Beranda', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\vscode\\CI\\ci4\\public\\index.php')
+CRITICAL - 2024-11-18 21:44:06 --> ErrorException: Undefined variable $konfig
+[Method: GET, Route: /]
+in APPPATH\Views\template.php on line 7.
+ 1 APPPATH\Views\template.php(7): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $konfig', 'D:\\vscode\\CI\\ci4\\app\\Views\\template.php', 7)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\vscode\\CI\\ci4\\app\\Views\\template.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\View\View.php(250): CodeIgniter\View\View->render('template', [], true)
+ 5 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Beranda', [], true)
+ 6 APPPATH\Controllers\Home.php(22): view('Beranda', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->index()
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+13 SYSTEMPATH\rewrite.php(44): require_once('D:\\vscode\\CI\\ci4\\public\\index.php')
+CRITICAL - 2024-11-18 21:44:15 --> ErrorException: Undefined variable $config
+[Method: GET, Route: /]
+in APPPATH\Views\template.php on line 7.
+ 1 APPPATH\Views\template.php(7): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $config', 'D:\\vscode\\CI\\ci4\\app\\Views\\template.php', 7)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\vscode\\CI\\ci4\\app\\Views\\template.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\View\View.php(250): CodeIgniter\View\View->render('template', [], true)
+ 5 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Beranda', [], true)
+ 6 APPPATH\Controllers\Home.php(22): view('Beranda', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->index()
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+13 SYSTEMPATH\rewrite.php(44): require_once('D:\\vscode\\CI\\ci4\\public\\index.php')
+CRITICAL - 2024-11-18 21:44:16 --> ErrorException: Undefined variable $config
+[Method: GET, Route: /]
+in APPPATH\Views\template.php on line 7.
+ 1 APPPATH\Views\template.php(7): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $config', 'D:\\vscode\\CI\\ci4\\app\\Views\\template.php', 7)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\vscode\\CI\\ci4\\app\\Views\\template.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\View\View.php(250): CodeIgniter\View\View->render('template', [], true)
+ 5 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Beranda', [], true)
+ 6 APPPATH\Controllers\Home.php(22): view('Beranda', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->index()
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+13 SYSTEMPATH\rewrite.php(44): require_once('D:\\vscode\\CI\\ci4\\public\\index.php')
+CRITICAL - 2024-11-18 21:44:35 --> ErrorException: Undefined array key "judul_web"
+[Method: GET, Route: /]
+in APPPATH\Views\template.php on line 7.
+ 1 APPPATH\Views\template.php(7): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "judul_web"', 'D:\\vscode\\CI\\ci4\\app\\Views\\template.php', 7)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\vscode\\CI\\ci4\\app\\Views\\template.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\View\View.php(250): CodeIgniter\View\View->render('template', [], true)
+ 5 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Beranda', [], true)
+ 6 APPPATH\Controllers\Home.php(22): view('Beranda', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->index()
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+13 SYSTEMPATH\rewrite.php(44): require_once('D:\\vscode\\CI\\ci4\\public\\index.php')
+CRITICAL - 2024-11-18 21:45:47 --> ErrorException: Undefined array key "deskripsi_website"
+[Method: GET, Route: /]
+in APPPATH\Views\template.php on line 91.
+ 1 APPPATH\Views\template.php(91): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "deskripsi_website"', 'D:\\vscode\\CI\\ci4\\app\\Views\\template.php', 91)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\vscode\\CI\\ci4\\app\\Views\\template.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\View\View.php(250): CodeIgniter\View\View->render('template', [], true)
+ 5 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Beranda', [], true)
+ 6 APPPATH\Controllers\Home.php(22): view('Beranda', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->index()
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+13 SYSTEMPATH\rewrite.php(44): require_once('D:\\vscode\\CI\\ci4\\public\\index.php')
+CRITICAL - 2024-11-18 21:49:33 --> ErrorException: Trying to access array offset on value of type null
+[Method: GET, Route: blog.html]
+in APPPATH\Views\Blog.php on line 14.
+ 1 APPPATH\Views\Blog.php(14): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'D:\\vscode\\CI\\ci4\\app\\Views\\Blog.php', 14)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\vscode\\CI\\ci4\\app\\Views\\Blog.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Blog', [], true)
+ 5 APPPATH\Controllers\Home.php(32): view('Blog', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->blog('blog.html')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\vscode\\CI\\ci4\\public\\index.php')
+CRITICAL - 2024-11-18 21:59:41 --> ErrorException: foreach() argument must be of type array|object, string given
+[Method: GET, Route: /]
+in APPPATH\Views\Beranda.php on line 18.
+ 1 APPPATH\Views\Beranda.php(18): CodeIgniter\Debug\Exceptions->errorHandler(2, 'foreach() argument must be of type array|object, string given', 'D:\\vscode\\CI\\ci4\\app\\Views\\Beranda.php', 18)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\vscode\\CI\\ci4\\app\\Views\\Beranda.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Beranda', [], true)
+ 5 APPPATH\Controllers\Home.php(22): view('Beranda', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\vscode\\CI\\ci4\\public\\index.php')
+CRITICAL - 2024-11-18 21:59:44 --> ErrorException: foreach() argument must be of type array|object, string given
+[Method: GET, Route: /]
+in APPPATH\Views\Beranda.php on line 18.
+ 1 APPPATH\Views\Beranda.php(18): CodeIgniter\Debug\Exceptions->errorHandler(2, 'foreach() argument must be of type array|object, string given', 'D:\\vscode\\CI\\ci4\\app\\Views\\Beranda.php', 18)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\vscode\\CI\\ci4\\app\\Views\\Beranda.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Beranda', [], true)
+ 5 APPPATH\Controllers\Home.php(22): view('Beranda', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\vscode\\CI\\ci4\\public\\index.php')
+CRITICAL - 2024-11-18 21:59:50 --> ErrorException: Undefined variable $gambar
+[Method: GET, Route: /]
+in APPPATH\Views\Beranda.php on line 18.
+ 1 APPPATH\Views\Beranda.php(18): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $gambar', 'D:\\vscode\\CI\\ci4\\app\\Views\\Beranda.php', 18)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\vscode\\CI\\ci4\\app\\Views\\Beranda.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Beranda', [], true)
+ 5 APPPATH\Controllers\Home.php(22): view('Beranda', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\vscode\\CI\\ci4\\public\\index.php')
+CRITICAL - 2024-11-18 21:59:51 --> ErrorException: Undefined variable $gambar
+[Method: GET, Route: /]
+in APPPATH\Views\Beranda.php on line 18.
+ 1 APPPATH\Views\Beranda.php(18): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $gambar', 'D:\\vscode\\CI\\ci4\\app\\Views\\Beranda.php', 18)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\vscode\\CI\\ci4\\app\\Views\\Beranda.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Beranda', [], true)
+ 5 APPPATH\Controllers\Home.php(22): view('Beranda', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\vscode\\CI\\ci4\\public\\index.php')
+CRITICAL - 2024-11-18 22:00:01 --> ErrorException: Undefined variable $gambar
+[Method: GET, Route: /]
+in APPPATH\Views\Beranda.php on line 18.
+ 1 APPPATH\Views\Beranda.php(18): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $gambar', 'D:\\vscode\\CI\\ci4\\app\\Views\\Beranda.php', 18)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\vscode\\CI\\ci4\\app\\Views\\Beranda.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Beranda', [], true)
+ 5 APPPATH\Controllers\Home.php(22): view('Beranda', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\vscode\\CI\\ci4\\public\\index.php')
+CRITICAL - 2024-11-18 22:03:50 --> ErrorException: Trying to access array offset on value of type null
+[Method: GET, Route: makanan]
+in APPPATH\Views\Blog.php on line 14.
+ 1 APPPATH\Views\Blog.php(14): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'D:\\vscode\\CI\\ci4\\app\\Views\\Blog.php', 14)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\vscode\\CI\\ci4\\app\\Views\\Blog.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Blog', [], true)
+ 5 APPPATH\Controllers\Home.php(32): view('Blog', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->blog('makanan')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\vscode\\CI\\ci4\\public\\index.php')
+CRITICAL - 2024-11-18 22:39:35 --> ErrorException: Trying to access array offset on value of type null
+[Method: GET, Route: post/202410-07-10-01-46.png]
+in APPPATH\Views\Blog.php on line 33.
+ 1 APPPATH\Views\Blog.php(33): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'D:\\vscode\\CI\\ci4\\app\\Views\\Blog.php', 33)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\vscode\\CI\\ci4\\app\\Views\\Blog.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Blog', [], true)
+ 5 APPPATH\Controllers\Home.php(32): view('Blog', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->blog('202410-07-10-01-46.png')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\vscode\\CI\\ci4\\public\\index.php')
+CRITICAL - 2024-11-18 22:39:59 --> ErrorException: Undefined variable $content
+[Method: GET, Route: post/jasuke]
+in APPPATH\Views\Blog.php on line 33.
+ 1 APPPATH\Views\Blog.php(33): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $content', 'D:\\vscode\\CI\\ci4\\app\\Views\\Blog.php', 33)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\vscode\\CI\\ci4\\app\\Views\\Blog.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Blog', [], true)
+ 5 APPPATH\Controllers\Home.php(32): view('Blog', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->blog('jasuke')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\vscode\\CI\\ci4\\public\\index.php')
+CRITICAL - 2024-11-18 22:40:24 --> ParseError: syntax error, unexpected token ";"
+[Method: GET, Route: post/jasuke]
+in APPPATH\Views\Blog.php on line 36.
+ 1 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Blog', [], true)
+ 3 APPPATH\Controllers\Home.php(32): view('Blog', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->blog('jasuke')
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('D:\\vscode\\CI\\ci4\\public\\index.php')
+CRITICAL - 2024-11-18 22:40:28 --> ErrorException: Undefined array key "nama"
+[Method: GET, Route: post/jasuke]
+in APPPATH\Views\Blog.php on line 36.
+ 1 APPPATH\Views\Blog.php(36): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "nama"', 'D:\\vscode\\CI\\ci4\\app\\Views\\Blog.php', 36)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\vscode\\CI\\ci4\\app\\Views\\Blog.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Blog', [], true)
+ 5 APPPATH\Controllers\Home.php(32): view('Blog', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->blog('jasuke')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\vscode\\CI\\ci4\\public\\index.php')
+CRITICAL - 2024-11-18 22:40:31 --> ErrorException: Undefined array key "nama_konten"
+[Method: GET, Route: post/jasuke]
+in APPPATH\Views\Blog.php on line 36.
+ 1 APPPATH\Views\Blog.php(36): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "nama_konten"', 'D:\\vscode\\CI\\ci4\\app\\Views\\Blog.php', 36)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\vscode\\CI\\ci4\\app\\Views\\Blog.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Blog', [], true)
+ 5 APPPATH\Controllers\Home.php(32): view('Blog', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->blog('jasuke')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\vscode\\CI\\ci4\\public\\index.php')
+INFO - 2024-11-18 22:54:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-18 22:54:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-18 22:54:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-18 22:54:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-18 22:54:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-18 22:54:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-18 22:55:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-18 22:55:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-18 22:55:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-18 22:55:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-18 22:55:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-18 22:55:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-18 22:55:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-11-18 22:55:35 --> ParseError: syntax error, unexpected token ";"
+[Method: GET, Route: post/jasuke]
+in APPPATH\Views\Blog.php on line 74.
+ 1 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Blog', [], true)
+ 3 APPPATH\Controllers\Home.php(32): view('Blog', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->blog('jasuke')
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('D:\\vscode\\CI\\ci4\\public\\index.php')
+CRITICAL - 2024-11-18 22:56:12 --> ErrorException: Undefined array key "useranme"
+[Method: GET, Route: post/jasuke]
+in APPPATH\Views\Blog.php on line 72.
+ 1 APPPATH\Views\Blog.php(72): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "useranme"', 'D:\\vscode\\CI\\ci4\\app\\Views\\Blog.php', 72)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\vscode\\CI\\ci4\\app\\Views\\Blog.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Blog', [], true)
+ 5 APPPATH\Controllers\Home.php(32): view('Blog', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->blog('jasuke')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\vscode\\CI\\ci4\\public\\index.php')
+CRITICAL - 2024-11-18 23:01:51 --> ParseError: syntax error, unexpected token "}", expecting "," or ";"
+[Method: GET, Route: post/jasuke]
+in APPPATH\Views\Blog.php on line 94.
+ 1 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Blog', [], true)
+ 3 APPPATH\Controllers\Home.php(32): view('Blog', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->blog('jasuke')
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('D:\\vscode\\CI\\ci4\\public\\index.php')
+CRITICAL - 2024-11-18 23:01:51 --> ParseError: syntax error, unexpected token "}", expecting "," or ";"
+[Method: GET, Route: post/jasuke]
+in APPPATH\Views\Blog.php on line 94.
+ 1 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Blog', [], true)
+ 3 APPPATH\Controllers\Home.php(32): view('Blog', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->blog('jasuke')
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('D:\\vscode\\CI\\ci4\\public\\index.php')
+CRITICAL - 2024-11-18 23:01:56 --> ParseError: syntax error, unexpected token "}", expecting "," or ";"
+[Method: GET, Route: post/jasuke]
+in APPPATH\Views\Blog.php on line 94.
+ 1 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Blog', [], true)
+ 3 APPPATH\Controllers\Home.php(32): view('Blog', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->blog('jasuke')
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('D:\\vscode\\CI\\ci4\\public\\index.php')
+CRITICAL - 2024-11-18 23:01:56 --> ErrorException: Undefined array key "twitter"
+[Method: GET, Route: post/jasuke]
+in APPPATH\Views\Blog.php on line 76.
+ 1 APPPATH\Views\Blog.php(76): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "twitter"', 'D:\\vscode\\CI\\ci4\\app\\Views\\Blog.php', 76)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\vscode\\CI\\ci4\\app\\Views\\Blog.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Blog', [], true)
+ 5 APPPATH\Controllers\Home.php(32): view('Blog', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->blog('jasuke')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\vscode\\CI\\ci4\\public\\index.php')
+CRITICAL - 2024-11-18 23:01:57 --> ErrorException: Undefined array key "twitter"
+[Method: GET, Route: post/jasuke]
+in APPPATH\Views\Blog.php on line 76.
+ 1 APPPATH\Views\Blog.php(76): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "twitter"', 'D:\\vscode\\CI\\ci4\\app\\Views\\Blog.php', 76)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\vscode\\CI\\ci4\\app\\Views\\Blog.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Blog', [], true)
+ 5 APPPATH\Controllers\Home.php(32): view('Blog', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->blog('jasuke')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\vscode\\CI\\ci4\\public\\index.php')
+CRITICAL - 2024-11-18 23:02:38 --> ErrorException: Undefined array key "deskripsi"
+[Method: GET, Route: post/jasuke]
+in APPPATH\Views\Blog.php on line 92.
+ 1 APPPATH\Views\Blog.php(92): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "deskripsi"', 'D:\\vscode\\CI\\ci4\\app\\Views\\Blog.php', 92)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\vscode\\CI\\ci4\\app\\Views\\Blog.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Blog', [], true)
+ 5 APPPATH\Controllers\Home.php(32): view('Blog', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->blog('jasuke')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\vscode\\CI\\ci4\\public\\index.php')
+CRITICAL - 2024-11-18 23:02:39 --> ErrorException: Undefined array key "deskripsi"
+[Method: GET, Route: post/jasuke]
+in APPPATH\Views\Blog.php on line 92.
+ 1 APPPATH\Views\Blog.php(92): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "deskripsi"', 'D:\\vscode\\CI\\ci4\\app\\Views\\Blog.php', 92)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\vscode\\CI\\ci4\\app\\Views\\Blog.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Blog', [], true)
+ 5 APPPATH\Controllers\Home.php(32): view('Blog', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->blog('jasuke')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\vscode\\CI\\ci4\\public\\index.php')
+CRITICAL - 2024-11-18 23:02:40 --> ErrorException: Undefined array key "deskripsi"
+[Method: GET, Route: post/jasuke]
+in APPPATH\Views\Blog.php on line 92.
+ 1 APPPATH\Views\Blog.php(92): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "deskripsi"', 'D:\\vscode\\CI\\ci4\\app\\Views\\Blog.php', 92)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\vscode\\CI\\ci4\\app\\Views\\Blog.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Blog', [], true)
+ 5 APPPATH\Controllers\Home.php(32): view('Blog', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->blog('jasuke')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\vscode\\CI\\ci4\\public\\index.php')
+CRITICAL - 2024-11-18 23:04:21 --> ErrorException: Undefined array key "nama_kategori"
+[Method: GET, Route: post/jasuke]
+in APPPATH\Views\Blog.php on line 106.
+ 1 APPPATH\Views\Blog.php(106): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "nama_kategori"', 'D:\\vscode\\CI\\ci4\\app\\Views\\Blog.php', 106)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\vscode\\CI\\ci4\\app\\Views\\Blog.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Blog', [], true)
+ 5 APPPATH\Controllers\Home.php(32): view('Blog', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->blog('jasuke')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\vscode\\CI\\ci4\\public\\index.php')
+CRITICAL - 2024-11-18 23:04:22 --> ErrorException: Undefined array key "nama_kategori"
+[Method: GET, Route: post/jasuke]
+in APPPATH\Views\Blog.php on line 106.
+ 1 APPPATH\Views\Blog.php(106): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "nama_kategori"', 'D:\\vscode\\CI\\ci4\\app\\Views\\Blog.php', 106)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\vscode\\CI\\ci4\\app\\Views\\Blog.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Blog', [], true)
+ 5 APPPATH\Controllers\Home.php(32): view('Blog', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->blog('jasuke')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\vscode\\CI\\ci4\\public\\index.php')
+CRITICAL - 2024-11-18 23:04:23 --> ErrorException: Undefined array key "nama_kategori"
+[Method: GET, Route: post/jasuke]
+in APPPATH\Views\Blog.php on line 106.
+ 1 APPPATH\Views\Blog.php(106): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "nama_kategori"', 'D:\\vscode\\CI\\ci4\\app\\Views\\Blog.php', 106)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\vscode\\CI\\ci4\\app\\Views\\Blog.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Blog', [], true)
+ 5 APPPATH\Controllers\Home.php(32): view('Blog', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->blog('jasuke')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\vscode\\CI\\ci4\\public\\index.php')
+CRITICAL - 2024-11-18 23:05:00 --> ErrorException: Undefined array key "nama_kategori"
+[Method: GET, Route: post/jasuke]
+in APPPATH\Views\Blog.php on line 106.
+ 1 APPPATH\Views\Blog.php(106): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "nama_kategori"', 'D:\\vscode\\CI\\ci4\\app\\Views\\Blog.php', 106)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\vscode\\CI\\ci4\\app\\Views\\Blog.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Blog', [], true)
+ 5 APPPATH\Controllers\Home.php(32): view('Blog', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->blog('jasuke')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\vscode\\CI\\ci4\\public\\index.php')
+INFO - 2024-11-18 23:42:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-18 23:42:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-18 23:43:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-18 23:43:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-18 23:43:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-18 23:43:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-18 23:43:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-18 23:43:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-18 23:44:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-18 23:44:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-18 23:48:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-18 23:49:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-18 23:49:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-18 23:49:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-18 23:49:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-18 23:49:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
